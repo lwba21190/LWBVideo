@@ -1,0 +1,47 @@
+{
+  "data":{
+    "search_content":"我不是潘金莲",
+    "nav":[
+      {
+        "title": "NBA",
+        "link": "http://sports.qq.com/nbavideo/"
+      },
+      {
+        "title": "NBA赛事库",
+        "link": "http://sports.qq.com/nbavideo/match.htm"
+      },
+      {
+        "title": "NBA十佳球",
+        "link": "http://sports.qq.com/nbavideo/topsk/"
+      },
+      {
+        "title": "NBA回放",
+        "link": "http://sports.qq.com/nbavideo/cxmatch/"
+      },
+      {
+        "title": "CBA",
+        "link": "http://sports.qq.com/cba/video.htm"
+      },
+      {
+        "title": "英超",
+        "link": "http://sports.qq.com/video/yc/"
+      },
+      {
+        "title": "欧冠",
+        "link": "http://sports.qq.com/video/og/"
+      },
+      {
+        "title": "德甲",
+        "link": "http://sports.qq.com/isocce/bundesligavideo.htm"
+      },
+      {
+        "title": "中超",
+        "link": "http://sports.qq.com/video/zcvideo/"
+      },
+      {
+        "title": "中超英雄",
+        "link": "http://sports.qq.com/csocce/gnzq/zcyx/index.htm"
+      }
+    ]
+  }
+}

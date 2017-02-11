@@ -1,0 +1,1100 @@
+{
+	"data": {
+		"sort":[
+			{
+				"title": "按明星",
+				"items": [
+					{
+						"name": "宋小宝",
+						"link": "http://v.qq.com/x/star/102829?tab=guestVariety"
+					},
+					{
+						"name": "杨幂",
+						"link": "http://v.qq.com/x/star/75545?tab=guestVariety"
+					},
+					{
+						"name": "华晨宇",
+						"link": "http://v.qq.com/x/star/132497?tab=guestVariety"
+					},
+					{
+						"name": "王凯",
+						"link": "http://v.qq.com/x/star/85456?tab=guestVariety"
+					},
+					{
+						"name": "周杰伦",
+						"link": "http://v.qq.com/x/star/72868?tab=guestVariety"
+					},
+					{
+						"name": "何炅",
+						"link": "http://v.qq.com/x/star/71620?tab=hostVariety"
+					},
+					{
+						"name": "薛之谦",
+						"link": "http://v.qq.com/x/star/78477?tab=guestVariety"
+					},
+					{
+						"name": "陈赫",
+						"link": "http://v.qq.com/x/star/94706?tab=guestVariety"
+					}
+				]
+			},
+			{
+				"title": "按类型",
+				"items": [
+					{
+						"name": "腾讯出品",
+						"link": "http://v.qq.com/x/list/variety?offset=0&isource=2"
+					},
+					{
+						"name": "真人秀",
+						"link": "http://v.qq.com/x/list/variety?offset=0&itype=163223"
+					},
+					{
+						"name": "情感",
+						"link": "http://v.qq.com/x/list/variety?offset=0&itype=97215"
+					},
+					{
+						"name": "竞技",
+						"link": "http://v.qq.com/x/list/variety?offset=0&itype=216966"
+					},
+					{
+						"name": "明星访谈",
+						"link": "http://v.qq.com/x/list/variety?offset=0&itype=97210"
+					},
+					{
+						"name": "选秀",
+						"link": "http://v.qq.com/x/list/variety?itype=97991&offset=0"
+					},
+					{
+						"name": "脱口秀",
+						"link": "http://v.qq.com/x/list/variety?offset=0&itype=97217"
+					},
+					{
+						"name": "音乐",
+						"link": "http://v.qq.com/x/list/variety?itype=216997&offset=0"
+					}
+				]
+			},
+			{
+				"title": "按栏目",
+				"items": [
+					{
+						"name": "吐槽大会",
+						"link": "http://v.qq.com/variety/p/topic/tucaodahui/index.html"
+					},
+					{
+						"name": "触不到的TA",
+						"link": "http://v.qq.com/detail/5/53692.html"
+					},
+					{
+						"name": "真正男子汉2",
+						"link": "http://v.qq.com/variety/p/topic/nanzihan2/index.html"
+					},
+					{
+						"name": "拜托了衣橱",
+						"link": "http://v.qq.com/variety/p/topic/btlyc/index.html"
+					},
+					{
+						"name": "WOW新家",
+						"link": "http://v.qq.com/detail/5/53628.html"
+					},
+					{
+						"name": "中国式相亲",
+						"link": "http://v.qq.com/variety/p/topic/zgsxq/index.html"
+					},
+					{
+						"name": "韩国综艺",
+						"link": "http://v.qq.com/variety/p/topic/hanzongtest1/index.html"
+					},
+					{
+						"name": "我们十七岁",
+						"link": "http://v.qq.com/detail/5/53158.html"
+					},
+					{
+						"name": "见字如面",
+						"link": "http://v.qq.com/detail/5/53249.html"
+					},
+					{
+						"name": "厉害了我的歌",
+						"link": "http://v.qq.com/detail/5/54857.html"
+					},
+					{
+						"name": "笑星闯地球",
+						"link": "http://v.qq.com/detail/5/53094.html"
+					},
+					{
+						"name": "暴走大事件",
+						"link": "http://v.qq.com/detail/3/30406.html"
+					},
+					{
+						"name": "笑傲江湖3",
+						"link": "http://v.qq.com/variety/p/topic/xajh/index.html"
+					},
+					{
+						"name": "来吧！冠军",
+						"link": "http://v.qq.com/detail/4/48417.html"
+					},
+					{
+						"name": "跨界歌王",
+						"link": "http://v.qq.com/detail/4/49787.html"
+					},
+					{
+						"name": "加油向未来",
+						"link": "http://v.qq.com/variety/p/topic/jyxwl/index.html"
+					},
+					{
+						"name": "你正常吗第三季",
+						"link": "http://v.qq.com/program/ayn3/index.htm"
+					},
+					{
+						"name": "哎哟！辣么美",
+						"link": "http://v.qq.com/variety/p/topic/aynmm/index.html"
+					},
+					{
+						"name": "花样男团",
+						"link": "http://v.qq.com/detail/4/49881.html"
+					},
+					{
+						"name": "我们相爱吧2",
+						"link": "http://v.qq.com/detail/4/45990.html"
+					},
+					{
+						"name": "花样姐姐2",
+						"link": "http://v.qq.com/detail/4/46603.html"
+					},
+					{
+						"name": "音乐大师课",
+						"link": "http://v.qq.com/detail/4/46496.html"
+					}
+				]
+			},
+			{
+				"title": "按地区",
+				"items": [
+					{
+						"name": "浙江",
+						"link": "http://v.qq.com/x/list/variety?offset=0&iarea=5"
+					},
+					{
+						"name": "江苏",
+						"link": "http://v.qq.com/x/list/variety?offset=0&iarea=3"
+					},
+					{
+						"name": "东方",
+						"link": "http://v.qq.com/x/list/variety?iarea=4&offset=0"
+					},
+					{
+						"name": "湖南",
+						"link": "http://v.qq.com/x/list/variety?iarea=2&offset=0"
+					},
+					{
+						"name": "北京",
+						"link": "http://v.qq.com/x/list/variety?offset=0&iarea=12"
+					},
+					{
+						"name": "安徽",
+						"link": "http://v.qq.com/x/list/variety?offset=0&iarea=9"
+					},
+					{
+						"name": "天津",
+						"link": "http://v.qq.com/x/varietylist/?itype=-1&offset=0&isource=-1&sort=4&iarea=6"
+					},
+					{
+						"name": "深圳",
+						"link": "http://v.qq.com/x/list/variety?offset=0&iarea=11"
+					},
+					{
+						"name": "韩国",
+						"link": "http://v.qq.com/x/list/variety?offset=0&iarea=75"
+					}
+				]
+			}
+		],
+		"leftTop": [
+			{
+				"title": "今日更新",
+				"type": 0,
+				"content": [
+					{
+						"maintitle": "吐槽大会",
+						"subtitle": "王祖蓝被老婆嫌弃矮：胸下面就是脚！",
+						"image": "http://puui.qpic.cn/tv/0/6847683_370320/0",
+						"link": "https://v.qq.com/x/cover/ecbaoqyfqmb5c87.html",
+						"subscript": "",
+						"figureInfo": "2017-01-22 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "新西游记 第3季",
+						"subtitle": "WINNER宋旻浩遭姜虎东壁咚",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/z/z9xo70thwieloa4_d.jpg",
+						"link": "https://v.qq.com/x/cover/z9xo70thwieloa4.html",
+						"subscript": "独播",
+						"figureInfo": "2017-01-22 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "真正男子汉 第2季",
+						"subtitle": "大结局：新兵成俘虏被施刑",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/c/c01j9nwjg63qc1i_d.jpg",
+						"link": "https://v.qq.com/x/cover/c01j9nwjg63qc1i/m00224rmb8q.html",
+						"subscript": "",
+						"figureInfo": "2017-01-19 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "欢乐中国人",
+						"subtitle": "东北萌娃爆笑主持《今日说法》",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/p/p46vmyfvr0k83nq_d.jpg",
+						"link": "https://v.qq.com/x/cover/p46vmyfvr0k83nq.html",
+						"subscript": "",
+						"figureInfo": "2017-01-22 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "超强音浪",
+						"subtitle": "尚雯婕自曝选秀曾遭淘汰",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/s/sq5vbgj0p4t9zhb_d.jpg",
+						"link": "https://v.qq.com/x/cover/sq5vbgj0p4t9zhb.html",
+						"subscript": "",
+						"figureInfo": "2017-01-22 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "中国式相亲",
+						"subtitle": "鲜肉遭爸妈“挑刺” 母女吵翻",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/z/zwozvsj1uyna4ch_d.jpg",
+						"link": "https://v.qq.com/x/cover/zwozvsj1uyna4ch.html",
+						"subscript": "",
+						"figureInfo": "2017-01-21 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "我们十七岁",
+						"subtitle": "郭富城鼻子被夹惨叫不止",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/n/nklf2pe04mlt0mx_d.jpg",
+						"link": "https://v.qq.com/x/cover/nklf2pe04mlt0mx.html",
+						"subscript": "",
+						"figureInfo": "2017-01-21 期",
+						"score": "",
+						"leftsubscript": ""
+					}
+				]
+			},
+			{
+				"title": "今日更新.综艺大爆炸",
+				"type": 1,
+				"content": [
+					{
+						"maintitle": "天籁少年迪玛希意外走红",
+						"subtitle": "6289.8万",
+						"image": "http://puui.qpic.cn/tv/0/6813234_175100/0",
+						"link": "https://v.qq.com/x/cover/8jo2qkfzixjov6z/l0022gz8mii.html",
+						"subscript": "",
+						"figureInfo": "湖南卫视歌手",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "首支奥斯卡级别综艺宣传片",
+						"subtitle": "81.7万",
+						"image": "http://puui.qpic.cn/tv/0/6682089_175100/0",
+						"link": "https://v.qq.com/x/cover/p49n0qb1n4cxwxf/g0367243jn8.html",
+						"subscript": "独播",
+						"figureInfo": "跨界冰雪王",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "盘点2016明星车祸表演",
+						"subtitle": "304.8万",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/r/rizm6rquohjs0gv_d.jpg",
+						"link": "https://v.qq.com/x/cover/rizm6rquohjs0gv.html",
+						"subscript": "",
+						"figureInfo": "综艺大爆炸",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "燃！JC练习生助阵凤凰传奇",
+						"subtitle": "0",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/g/gicg4zlwknbbybi_d.jpg",
+						"link": "https://v.qq.com/x/cover/gicg4zlwknbbybi.html",
+						"subscript": "",
+						"figureInfo": "1VS11",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "李易峰华丽变身霸气鬼厉",
+						"subtitle": "",
+						"image": "http://wa.gtimg.com/website/201701/sz_QSDZ_20170119145630.jpg",
+						"link": "http://c.l.qq.com/lclick?oid=3123837&cid=1740661&loc=QQlive_SP_ZY_ZZSP&click_data=dXNlcl9pbmZvPXZCM19uem93RVItLUZlT2NJeVVURXI4WjlnPT0=&soid=jGYzOyLyWIiYeQcFhQBXzZkiAZQF&index=1&aver=0&dtype=0",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					}
+				]
+			},
+			{
+				"title": "热门栏目",
+				"type": 0,
+				"content": [
+					{
+						"maintitle": "拜托了衣橱",
+						"subtitle": "容祖儿陈赫改编神曲变情歌，谢娜重现张杰下腰",
+						"image": "http://img1.gtimg.com/v_hot_zy/pics/hv1/51/0/2181/141819576.jpg",
+						"link": "https://v.qq.com/x/cover/stb86elayi3p0uw/z0022m6veb2.html",
+						"subscript": "腾讯出品",
+						"figureInfo": "2017-01-18 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "厉害了我的歌",
+						"subtitle": "李玉刚摇滚“72变” 叫板蔡依林",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/r/r5bt3kwcjj9fb9x_d.jpg",
+						"link": "https://v.qq.com/x/cover/r5bt3kwcjj9fb9x.html",
+						"subscript": "",
+						"figureInfo": "2017-01-20 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "爱情保卫战",
+						"subtitle": "强迫症男友爱情面前终低头",
+						"image": "http://puui.qpic.cn/tv/0/6817131_175100/0",
+						"link": "https://v.qq.com/x/cover/kpe850322dcjgw1.html",
+						"subscript": "",
+						"figureInfo": "2017-01-21 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "非诚勿扰",
+						"subtitle": "男嘉宾对御姐心动却带走软妹子",
+						"image": "http://puui.qpic.cn/tv/0/6817155_175100/0",
+						"link": "https://v.qq.com/x/cover/ydoz2syt7wivecj.html",
+						"subscript": "",
+						"figureInfo": "2017-01-21 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "围炉音乐会",
+						"subtitle": "辛晓琪再唱经典《味道》",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/8/86czzj1j7w9dd3e_d.jpg",
+						"link": "https://v.qq.com/x/cover/86czzj1j7w9dd3e.html",
+						"subscript": "",
+						"figureInfo": "2017-01-19 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "噢！麦live",
+						"subtitle": "男主播大跳广场舞",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/2/2fovwvj9dt84f9c_d.jpg",
+						"link": "https://v.qq.com/x/cover/2fovwvj9dt84f9c.html",
+						"subscript": "",
+						"figureInfo": "2017-01-24 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "二十四小时2",
+						"subtitle": "2月3日！陈坤吴磊上演“007”",
+						"image": "http://puui.qpic.cn/tv/0/6685122_175100/0",
+						"link": "https://v.qq.com/x/cover/vi3666kuc9weltv/a0022aejinb.html",
+						"subscript": "",
+						"figureInfo": "2017-01-19 期",
+						"score": "",
+						"leftsubscript": ""
+					}
+				]
+			},
+			{
+				"title": "娱乐爆点",
+				"type": 0,
+				"content": [
+					{
+						"maintitle": "关八热话题",
+						"subtitle": "张敬轩惊现《我是歌手》0.1秒！于正暗讽《甄嬛传》",
+						"image": "http://puui.qpic.cn/tv/0/6871972_370320/0",
+						"link": "https://v.qq.com/x/cover/n44vka9re07vijy.html",
+						"subscript": "",
+						"figureInfo": "2017-01-22 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "新氧明星整形教室",
+						"subtitle": "娜扎走老公路线却输给热巴？",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/h/hdj53y5jhn4s3yk_d.jpg",
+						"link": "https://v.qq.com/x/cover/hdj53y5jhn4s3yk.html",
+						"subscript": "",
+						"figureInfo": "2017-01-25 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "瓣嘴",
+						"subtitle": "怎样对Angelababy粉转黑？",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/g/gqjr19vyfr4hc16_d.jpg",
+						"link": "https://v.qq.com/x/cover/gqjr19vyfr4hc16.html",
+						"subscript": "",
+						"figureInfo": "2017-01-22 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "不装 第2季",
+						"subtitle": "孙艺洲火锅店发疯撵走客人",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/b/bluhut4x62gcqjo_d.jpg",
+						"link": "https://v.qq.com/x/cover/bluhut4x62gcqjo.html",
+						"subscript": "",
+						"figureInfo": "2017-01-19 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "综艺男神",
+						"subtitle": "沈梦辰VS伊一谁更红",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/9/9t2ht4bs6w7s6xh_d.jpg",
+						"link": "https://v.qq.com/x/cover/9t2ht4bs6w7s6xh.html",
+						"subscript": "",
+						"figureInfo": "2017-01-19 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "名侦探猴赛雷",
+						"subtitle": "张敬轩上《我是歌手》半路被踢",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/o/o69i3od0w0hy252_d.jpg",
+						"link": "https://v.qq.com/x/cover/o69i3od0w0hy252.html",
+						"subscript": "",
+						"figureInfo": "2017-01-18 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "怪咖啪啪啪",
+						"subtitle": "明星春节送礼有什么内幕",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/m/mqcr1aqzgshec6k_d.jpg",
+						"link": "https://v.qq.com/x/cover/mqcr1aqzgshec6k.html",
+						"subscript": "",
+						"figureInfo": "2017-01-16 期",
+						"score": "",
+						"leftsubscript": ""
+					}
+				]
+			},
+			{
+				"title": "腾讯出品",
+				"type": 0,
+				"content": [
+					{
+						"maintitle": "暴走大事件",
+						"subtitle": "大事件完结特别篇，暴走家族新单曲祝你过年大吉",
+						"image": "http://puui.qpic.cn/tv/0/6661250_370320/0",
+						"link": "https://v.qq.com/x/cover/ecpw67kdmd61wzk.html",
+						"subscript": "",
+						"figureInfo": "2017-01-20 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "字有道理",
+						"subtitle": "这一天，洗洗更健康",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/0/0b4j0h6qgwziyi7_d.jpg",
+						"link": "https://v.qq.com/x/cover/0b4j0h6qgwziyi7.html",
+						"subscript": "",
+						"figureInfo": "2017-01-24 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "囧闻一箩筐",
+						"subtitle": "央视春晚雷造型",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/j/j7plp2whlpn8989_d.jpg",
+						"link": "https://v.qq.com/x/cover/j7plp2whlpn8989.html",
+						"subscript": "",
+						"figureInfo": "2017-01-22 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "唐唐神吐槽",
+						"subtitle": "唐唐神吐槽：最诱惑的初恋",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/l/lkhjd8g5sof4ucj_d.jpg",
+						"link": "https://v.qq.com/x/cover/lkhjd8g5sof4ucj.html",
+						"subscript": "",
+						"figureInfo": "2017-01-20 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "八卦女人帮",
+						"subtitle": "女人帮热议另类约会 你约不约？",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/l/li1l5xbaq57phxn_d.jpg",
+						"link": "https://v.qq.com/x/cover/li1l5xbaq57phxn.html",
+						"subscript": "",
+						"figureInfo": "2017-01-19 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "咋整呢呵呵 第2季",
+						"subtitle": "想用超声刀回春？先挣它一个亿",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/q/qr9z9vxvqtd1jgl_d.jpg",
+						"link": "https://v.qq.com/x/cover/qr9z9vxvqtd1jgl.html",
+						"subscript": "",
+						"figureInfo": "2017-01-18 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "嘴滑了秀",
+						"subtitle": "告诉你春运的正确打开方式",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/g/g0epibj0zy450q7_d.jpg",
+						"link": "https://v.qq.com/x/cover/g0epibj0zy450q7.html",
+						"subscript": "",
+						"figureInfo": "2017-01-16 期",
+						"score": "",
+						"leftsubscript": ""
+					}
+				]
+			},
+			{
+				"title": "韩国综艺",
+				"type": 0,
+				"content": [
+					{
+						"maintitle": "新西游记 第3季",
+						"subtitle": "WINNER宋旻浩遭姜虎东霸气壁咚",
+						"image": "http://puui.qpic.cn/tv/0/6892920_370320/0",
+						"link": "https://v.qq.com/x/cover/z9xo70thwieloa4.html",
+						"subscript": "",
+						"figureInfo": "2017-01-22 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "Oh My思密达",
+						"subtitle": "Rain金泰熙低调完婚",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/4/4zoauret00wbt5g_d.jpg",
+						"link": "https://v.qq.com/x/cover/4zoauret00wbt5g.html",
+						"subscript": "腾讯出品",
+						"figureInfo": "2017-01-23 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "无限挑战",
+						"subtitle": "王嘉尔呛光熙：你不是YG饭？！",
+						"image": "http://puui.qpic.cn/tv/0/6804229_175100/0",
+						"link": "https://v.qq.com/x/cover/jtgtkl92lpbqkd6.html",
+						"subscript": "独播",
+						"figureInfo": "2017-01-21 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "我们结婚了",
+						"subtitle": "孔明惠成展开甜蜜同居生活",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/l/lw4i9t6jbvazq2w_d.jpg",
+						"link": "https://v.qq.com/x/cover/lw4i9t6jbvazq2w.html",
+						"subscript": "独播",
+						"figureInfo": "2017-01-21 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "MBC蒙面歌王",
+						"subtitle": "IOI金世正惊喜揭面",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/q/q1cqvhv6rdqlpl4_d.jpg",
+						"link": "https://v.qq.com/x/cover/q1cqvhv6rdqlpl4.html",
+						"subscript": "独播",
+						"figureInfo": "2017-01-22 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "我独自生活",
+						"subtitle": "Henry的奢华家庭首次公开！",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/r/rghl1s5admjsu36_d.jpg",
+						"link": "https://v.qq.com/x/cover/rghl1s5admjsu36.html",
+						"subscript": "独播",
+						"figureInfo": "2017-01-20 期",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "音乐中心",
+						"subtitle": "少女时代徐贤solo出道舞台",
+						"image": "http://puui.qpic.cn/tv/0/6827830_175100/0",
+						"link": "https://v.qq.com/x/cover/jq132vulankjk9y.html",
+						"subscript": "独播",
+						"figureInfo": "2017-01-21 期",
+						"score": "",
+						"leftsubscript": ""
+					}
+				]
+			}
+		],
+		"leftBottom":{
+			"title":"卫视强档",
+			"content":[
+				{
+					"title": "中央电视台",
+					"image": "http://img1.gtimg.com/v_syjx/pics/hv1/109/82/2179/141710494.jpg",
+					"content": [
+						{
+							"maintitle": "挑战不可能 第2季",
+							"subtitle": "王力宏悬空过云梯险坠落",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/7/7pjcjzziyumrswi_d.jpg",
+							"link": "https://v.qq.com/x/cover/7pjcjzziyumrswi.html",
+							"subscript": "",
+							"figureInfo": "2016-12-25 期",
+							"score": "",
+							"leftsubscript": ""
+						},
+						{
+							"maintitle": "乡约",
+							"subtitle": "给四冯村“豆腐西施”说媒",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/x/xp5xaqgg85egooi_d.jpg",
+							"link": "https://v.qq.com/x/cover/xp5xaqgg85egooi.html",
+							"subscript": "",
+							"figureInfo": "2017-01-14 期",
+							"score": "",
+							"leftsubscript": ""
+						},
+						{
+							"maintitle": "我要上春晚",
+							"subtitle": "收官之战！刘谦被曝童年糗事",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/y/yo9gz7e4z09a53b_d.jpg",
+							"link": "https://v.qq.com/x/cover/yo9gz7e4z09a53b.html",
+							"subscript": "",
+							"figureInfo": "2016-12-25 期",
+							"score": "",
+							"leftsubscript": ""
+						}
+					]
+				},
+				{
+					"title": "浙江卫视",
+					"image": "http://img1.gtimg.com/ent/pics/hv1/8/212/1492/97071368.png",
+					"content": [
+						{
+							"maintitle": "我们十七岁",
+							"subtitle": "郭富城鼻子被夹惨叫不止",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/n/nklf2pe04mlt0mx_d.jpg",
+							"link": "https://v.qq.com/x/cover/nklf2pe04mlt0mx.html",
+							"subscript": "",
+							"figureInfo": "2017-01-21 期",
+							"score": "",
+							"leftsubscript": ""
+						},
+						{
+							"maintitle": "我是创始人",
+							"subtitle": "六强争霸赛董明珠PK任泉",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/t/tp90ta4y5tv3oyz_d.jpg",
+							"link": "https://v.qq.com/x/cover/tp90ta4y5tv3oyz.html",
+							"subscript": "独播",
+							"figureInfo": "2017-01-19 期",
+							"score": "",
+							"leftsubscript": ""
+						}
+					]
+				},
+				{
+					"title": "江苏卫视",
+					"image": "http://img1.gtimg.com/ent/pics/hv1/248/211/1492/97071353.png",
+					"content": [
+						{
+							"maintitle": "最强大脑 第4季",
+							"subtitle": "水哥终极对决机器人求加难度",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/k/ktsqgiu9ln9hq89_d.jpg",
+							"link": "https://v.qq.com/x/cover/ktsqgiu9ln9hq89.html",
+							"subscript": "",
+							"figureInfo": "2017-01-20 期",
+							"score": "",
+							"leftsubscript": ""
+						},
+						{
+							"maintitle": "世界青年说",
+							"subtitle": "“老好人”和“麻烦鬼”",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideohori/j/jp062et5p7ouoer_d.jpg",
+							"link": "https://v.qq.com/x/cover/jp062et5p7ouoer.html",
+							"subscript": "",
+							"figureInfo": "2017-01-19 期",
+							"score": "",
+							"leftsubscript": ""
+						},
+						{
+							"maintitle": "一站到底",
+							"subtitle": "吴泽湘和游一堃成功登顶",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/5/5kqqjrunjaz4sws_d.jpg",
+							"link": "https://v.qq.com/x/cover/5kqqjrunjaz4sws.html",
+							"subscript": "",
+							"figureInfo": "2017-01-16 期",
+							"score": "",
+							"leftsubscript": ""
+						}
+					]
+				},
+				{
+					"title": "天津卫视",
+					"image": "http://img1.gtimg.com/ent/pics/hv1/5/212/1492/97071365.png",
+					"content": [
+						{
+							"maintitle": "拜托了妈妈",
+							"subtitle": "宝宝体检你做对了吗",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/1/18868tgis11uxfs_d.jpg",
+							"link": "https://v.qq.com/x/cover/18868tgis11uxfs.html",
+							"subscript": "",
+							"figureInfo": "2017-01-16 期",
+							"score": "",
+							"leftsubscript": ""
+						},
+						{
+							"maintitle": "非你莫属",
+							"subtitle": "美女董事长送外卖状况连连",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/x/xx3jqrrootzx24s_d.jpg",
+							"link": "https://v.qq.com/x/cover/xx3jqrrootzx24s.html",
+							"subscript": "",
+							"figureInfo": "2017-01-16 期",
+							"score": "",
+							"leftsubscript": ""
+						}
+					]
+				},
+				{
+					"title": "东方卫视",
+					"image": "http://img1.gtimg.com/ent/pics/hv1/2/212/1492/97071362.png",
+					"content": [
+						{
+							"maintitle": "中国式相亲",
+							"subtitle": "鲜肉遭爸妈“挑刺”",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/z/zwozvsj1uyna4ch_d.jpg",
+							"link": "https://v.qq.com/x/cover/zwozvsj1uyna4ch.html",
+							"subscript": "",
+							"figureInfo": "2017-01-21 期",
+							"score": "",
+							"leftsubscript": ""
+						},
+						{
+							"maintitle": "今晚80后脱口秀",
+							"subtitle": "在路上",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideohori/2/2tz718sq3cz9p8s_d.jpg",
+							"link": "https://v.qq.com/x/cover/2tz718sq3cz9p8s.html",
+							"subscript": "",
+							"figureInfo": "2017-01-19 期",
+							"score": "",
+							"leftsubscript": ""
+						},
+						{
+							"maintitle": "笑星闯地球",
+							"subtitle": "刘能扰民才艺大PK",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/o/o5z1bymqevzje7l_d.jpg",
+							"link": "https://v.qq.com/x/cover/o5z1bymqevzje7l.html",
+							"subscript": "",
+							"figureInfo": "2017-01-21 期",
+							"score": "",
+							"leftsubscript": ""
+						}
+					]
+				},
+				{
+					"title": "北京卫视",
+					"image": "http://img1.gtimg.com/ent/pics/hv1/235/211/1492/97071340.png",
+					"content": [
+						{
+							"maintitle": "厉害了我的歌",
+							"subtitle": "李玉刚摇滚“72变” 叫板蔡依林",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/r/r5bt3kwcjj9fb9x_d.jpg",
+							"link": "https://v.qq.com/x/cover/r5bt3kwcjj9fb9x.html",
+							"subscript": "",
+							"figureInfo": "2017-01-20 期",
+							"score": "",
+							"leftsubscript": ""
+						},
+						{
+							"maintitle": "养生堂",
+							"subtitle": "节日餐桌上的君臣佐使",
+							"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideohori/n/nvnmriu29p3ldtp_d.jpg",
+							"link": "https://v.qq.com/x/cover/nvnmriu29p3ldtp.html",
+							"subscript": "",
+							"figureInfo": "2017-01-21 期",
+							"score": "",
+							"leftsubscript": ""
+						}
+					]
+				}
+			]
+		},
+		"rightContent":{
+			"programList":{
+				"title":"节目单",
+				"items":[
+					{
+						"title": "刚刚更新",
+						"list": [
+							{
+								"maintitle": "非诚勿扰",
+								"subtitle": "男嘉宾心动御姐带走软妹子",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/ydoz2syt7wivecj.html"
+							},
+							{
+								"maintitle": "花漾梦工厂 第2季",
+								"subtitle": "何洁高空表演弃用保险绳",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/ym79p8dilrm97qh.html"
+							},
+							{
+								"maintitle": "跨界冰雪王",
+								"subtitle": "个人赛林更新王妍之组团开挂",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/zpea7mpgswid92n.html"
+							},
+							{
+								"maintitle": "笑星闯地球",
+								"subtitle": "王小利扰民才艺大PK",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/o5z1bymqevzje7l.html"
+							},
+							{
+								"maintitle": "我们十七岁",
+								"subtitle": "郭富城鼻子被夹惨叫不止",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/nklf2pe04mlt0mx.html"
+							},
+							{
+								"maintitle": "中国式相亲",
+								"subtitle": "鲜肉遭家长挑刺，母女起冲突",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/zwozvsj1uyna4ch.html"
+							},
+							{
+								"maintitle": "王牌对王牌",
+								"subtitle": "王源主持首秀成龙飙泪",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/wcmfpwuv4jz5jem.html"
+							},
+							{
+								"maintitle": "最强大脑",
+								"subtitle": "水哥终极对决机器人求加难度",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/ktsqgiu9ln9hq89.html"
+							},
+							{
+								"maintitle": "厉害了我的歌",
+								"subtitle": "李玉刚摇滚“72变” 叫板蔡依林",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/r5bt3kwcjj9fb9x.html"
+							},
+							{
+								"maintitle": "2017湖南卫视小年夜春晚",
+								"subtitle": "宋小宝大张伟合唱魔性神曲",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/elgeca5r61wachz.html"
+							}
+						]
+					},
+					{
+						"title": "全网独播",
+						"list": [
+							{
+								"maintitle": "WOW新家",
+								"subtitle": "厕所当厨房？设计师来拯救",
+								"image": "http://inews.gtimg.com/newsapp_ls/0/1056092757_6636/0",
+								"link": "https://v.qq.com/x/cover/xqqh4jbnrvsf942.html"
+							},
+							{
+								"maintitle": "围炉音乐会",
+								"subtitle": "辛晓琪忆张国荣落泪",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/86czzj1j7w9dd3e.html"
+							}
+						]
+					},
+					{
+						"title": "全网独播",
+						"list": [
+							{
+								"maintitle": "我是创始人",
+								"subtitle": "六强争霸赛董明珠PK任泉",
+								"image": "http://inews.gtimg.com/newsapp_ls/0/1056107196_6636/0",
+								"link": "https://v.qq.com/x/cover/tp90ta4y5tv3oyz.html"
+							},
+							{
+								"maintitle": "爱情保卫战",
+								"subtitle": "女友控制欲太强",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/i05rkiio93hr09l.html"
+							},
+							{
+								"maintitle": "欢乐中国人",
+								"subtitle": "世纪爱情引撒贝宁现场飙泪",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/7qxs4ffwdj69ai4.html"
+							}
+						]
+					}
+				]
+			},
+			"leaderBoard":{
+				"title":"排行榜",
+				"content":[
+					{
+						"title":"真正男子汉2 每周五晚开播",
+						"image":"http://puui.qpic.cn/tv/0/6491814_265100/0",
+						"link":"http://v.qq.com/variety/p/topic/nanzihan2/index.html"
+					},
+					{
+						"title":"拜托了衣橱",
+						"link":"http://v.qq.com/x/cover/utxbyga5stwrtph.html"
+					},
+					{
+						"title":"花漾梦工厂 第2季",
+						"link":"http://v.qq.com/x/cover/zp8cxfdlykk48g6.html"
+					},
+					{
+						"title":"吐槽大会",
+						"link":"http://v.qq.com/x/cover/g7laun143fqmdsj.html"
+					},
+					{
+						"title":"我们十七岁",
+						"link":"http://v.qq.com/x/cover/lh97ohnywowalag.html"
+					},
+					{
+						"title":"大牌驾到",
+						"link":"http://v.qq.com/x/cover/afawv2io8j0efdl.html"
+					},
+					{
+						"title":"岳云鹏相声合集",
+						"link":"http://v.qq.com/x/cover/fp4iuz4jkc0g5u9.html"
+					}
+				]
+			},
+			"trivia":{
+				"title":"预告.花絮",
+				"content":[
+					{
+						"maintitle": "闪亮的爸爸 第2季",
+						"subtitle": "第二季温暖回归！",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/d/d3aqi9sy217nwe8_d.jpg",
+						"link": "https://v.qq.com/x/cover/d3aqi9sy217nwe8.html"
+					},
+					{
+						"maintitle": "脑洞大开",
+						"subtitle": "丹顶鹤为什么单脚站立",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideohori/9/9pti7y8490dflsz_d.jpg",
+						"link": "https://v.qq.com/x/cover/9pti7y8490dflsz.html"
+					},
+					{
+						"title": "中国式相亲 大妈抢帅哥豪掷百万",
+						"link": "https://v.qq.com/x/cover/1344qbud75v03lq/m00225zclpr.html"
+					},
+					{
+						"title": "WOW新家 42厘米身高差情侣",
+						"link": "https://v.qq.com/x/cover/vau7b7uf10sasdz/y0022j31iyg.html"
+					},
+					{
+						"title": "我们十七岁 郭富城挑战鼻孔喷豆",
+						"link": "https://v.qq.com/x/cover/lh97ohnywowalag/l0022jh7vwe.html"
+					},
+					{
+						"title": "笑星闯地球 小超越抢亲反被剿",
+						"link": "https://v.qq.com/x/cover/g697my8srhej4pv/f0022jpwqmr.html"
+					},
+					{
+						"title": "大牌驾到 沙溢胡可教安吉撩妹",
+						"link": "https://v.qq.com/x/cover/afawv2io8j0efdl/u0022vzpvhw.html"
+					},
+					{
+						"title": "饭局 佟大为承认和陆毅关系不好",
+						"link": "http://v.qq.com/cover/8/8w2h5lfps31j3ou.html?vid=c0022zxcak3"
+					}
+				]
+			},
+			"programTopics":{
+				"title": "节目专题",
+				"content": [
+					{
+						"title": "吐槽大会",
+						"image": "http://puui.qpic.cn/tv/0/6390357_23578/0",
+						"link": "http://v.qq.com/variety/p/topic/tucaodahui/index.html"
+					},
+					{
+						"title": "真正男子汉 第2季",
+						"image": "http://img1.gtimg.com/v/pics/hv1/83/171/2142/139327238.jpg",
+						"link": "http://v.qq.com/variety/p/topic/nanzihan2/index.html"
+					},
+					{
+						"title": "我们十七岁",
+						"image": "http://puui.qpic.cn/tv/0/6470115_23578/0",
+						"link": "http://v.qq.com/detail/5/53158.html"
+					},
+					{
+						"title": "触不到的TA",
+						"image": "http://puui.qpic.cn/tv/0/6558742_23578/0",
+						"link": "http://v.qq.com/variety/p/topic/chubudaodeta/index.html"
+					},
+					{
+						"title": "中国式相亲",
+						"image": "http://puui.qpic.cn/tv/0/6354086_23578/0",
+						"link": "http://v.qq.com/variety/p/topic/zgsxq/index.html"
+					},
+					{
+						"title": "挑战出色人生",
+						"image": "http://puui.qpic.cn/tv/0/6033721_23578/0",
+						"link": "http://v.qq.com/variety/p/topic/tzcsrs/index.html"
+					}
+				]
+			},
+			"planTopics":{
+				"title": "策划专题",
+				"content": [
+					{
+						"title": "赵家班作品集",
+						"image": "http://puui.qpic.cn/tv/0/3183785_23578/0",
+						"link": "http://v.qq.com/cover/h/hq2j9gm5q2tngsj.html"
+					},
+					{
+						"title": "综艺大爆炸-网罗每天最新综艺",
+						"image": "http://puui.qpic.cn/tv/0/2112913_23578/0",
+						"link": "http://v.qq.com/detail/5/5974.html"
+					}
+				]
+			},
+			"cooperationTopics":{
+				"title": "合作专题",
+				"content": [
+					{
+						"title": "强势围观！再生，只是一张椅子的距离",
+						"image": "http://puui.qpic.cn/tv/0/6948040_23578/0",
+						"link": "https://v.qq.com/x/page/p0022i3v8mk.html"
+					},
+					{
+						"title": "新年这么热，少了雪碧怎么行？",
+						"image": "http://puui.qpic.cn/tv/0/6557449_23578/0",
+						"link": "https://v.qq.com/x/page/k035874dy23.html"
+					},
+					{
+						"title": "新西兰樱桃,对得起你一年一次的等待",
+						"image": "http://puui.qpic.cn/tv/0/6465745_23578/0",
+						"link": "https://item.jd.com/11050021914.html"
+					}
+				]
+			}
+		}
+	}
+}

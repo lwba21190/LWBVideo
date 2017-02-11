@@ -1,0 +1,75 @@
+{
+  "data":{
+    "search_content":"鬼吹灯之精绝古城",
+    "background_slider":[
+      {
+        "title": "拜托了衣橱： 陈乔恩飙戏看哭谢娜",
+        "image": "//img1.gtimg.com/v_zy/pics/hv1/89/130/2178/141657689.jpg",
+        "link": "https://v.qq.com/x/cover/utxbyga5stwrtph/h0022twpdlj.html"
+      },
+      {
+        "title": "鬼吹灯： 热播！精绝古城初露真容",
+        "image": "//puui.qpic.cn/tv/0/6435005_1680580/0",
+        "link": "http://v.qq.com/tv/p/topic/gcdjjgc/index.html"
+      },
+      {
+        "title": "青云志2： 今晚20:00大结局！",
+        "image": "//puui.qpic.cn/tv/0/6473021_1680580/0",
+        "link": "https://v.qq.com/x/cover/g7jpq0qd0k8xdca/m00226p4vu5.html"
+      },
+      {
+        "title": "漂亮的李慧珍： 满天都是小桃心",
+        "image": "//puui.qpic.cn/tv/0/6408961_1680580/0",
+        "link": "https://v.qq.com/x/cover/m1qxu7dd4aoekqp/s0022s8xgmm.html"
+      },
+      {
+        "title": "恶魔少爷别吻我： 00后玛丽苏！",
+        "image": "//puui.qpic.cn/tv/0/6445327_1680580/0",
+        "link": "https://v.qq.com/x/cover/1eyf4xyyez4p76n.html"
+      },
+      {
+        "title": "利先生： 周冬雨变天使安慰陈晓",
+        "image": "//puui.qpic.cn/tv/0/6463420_1680580/0",
+        "link": "https://v.qq.com/x/cover/867cm3h8gc01213.html"
+      },
+      {
+        "title": "我妻子的一切： 丈夫雇人勾引老婆",
+        "image": "//puui.qpic.cn/tv/0/6470280_1680580/0",
+        "link": "http://v.qq.com/x/cover/f36i18hhqebq2iu.html"
+      },
+      {
+        "title": "西部世界： 特斯拉前老板娘美哭了",
+        "image": "//img1.gtimg.com/v_dsj/pics/hv1/89/248/2174/141427679.jpg",
+        "link": "https://v.qq.com/x/cover/vtxb95np45a6ooz.html"
+      },
+      {
+        "title": "斗破苍穹： 被秒杀！萧炎对战惨败",
+        "image": "//puui.qpic.cn/tv/0/6451757_1680580/0",
+        "link": "https://v.qq.com/x/cover/xvlhj7cglyfwx8x.html"
+      },
+      {
+        "title": "元月特价开会员，100%送好礼！",
+        "image": "//img1.gtimg.com/v/pics/hv1/18/205/2176/141546693.jpg",
+        "link": "http://v.qq.com/movie/p/topic/ydth/index.html"
+      }
+    ],
+    "nav":[
+      {
+        "title":"电视剧",
+        "link":"http://localhost:3000/series"
+      },
+      {
+        "title":"综艺",
+        "link":"http://localhost:3000/variety"
+      },
+      {
+        "title":"电影",
+        "link":"http://localhost:3000/movie"
+      },
+      {
+        "title":"体育",
+        "link":"http://localhost:3000/sport"
+      }
+    ]
+  }
+}

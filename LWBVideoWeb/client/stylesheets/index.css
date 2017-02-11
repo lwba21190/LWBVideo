@@ -1,0 +1,63 @@
+*{
+    padding: 0;
+    margin: 0;
+    font: 16px "Lucida Grande", Helvetica, Arial, sans-serif;
+    outline:none;
+    font-family: PingFangSC-Regular,Tahoma,Microsoft Yahei;
+}
+body{
+    width: 100%;
+    margin: 0 auto;
+    overflow-x: hidden;
+}
+
+a {
+    text-decoration:none;
+    color: #000000;
+}
+
+a:hover
+{
+    color:#ff920b;
+}
+
+dd:hover{
+    color:#ff920b;
+    background-color: #cccccc;
+}
+
+li{
+    list-style:none;
+    color: #000000;
+}
+
+.container{
+    margin: 0 auto;
+    width:1280px;
+    position:relative;
+    display:flex;
+    flex:1;
+    justify-content:center;
+}
+
+#home{
+    display: flex;
+    flex:1;
+    justify-content: center;
+}
+
+::-webkit-scrollbar {
+    width:6px;
+}
+/* 滚动槽 */
+::-webkit-scrollbar-track {
+    border-radius:3px;
+}
+/* 滚动条滑块 */
+::-webkit-scrollbar-thumb {
+    border-radius:3px;
+    background:rgba(0,0,0,0.1);
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background:rgba(0,0,0,0.4);
+}

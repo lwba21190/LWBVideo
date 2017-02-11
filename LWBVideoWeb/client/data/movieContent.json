@@ -1,0 +1,1738 @@
+{
+	"data": {
+		"sort":[
+			{
+				"title": "按排行",
+				"items": [
+					{
+						"name": "院线新片",
+						"link": "http://v.qq.com/x/movielist/?cate=10001&offset=0&sort=5&pay=-1&theatre=1"
+					},
+					{
+						"name": "最新上架",
+						"link": "http://v.qq.com/x/movielist/?cate=10001&offset=0&sort=5&pay=-1"
+					},
+					{
+						"name": "最近热播",
+						"link": "http://v.qq.com/x/movielist/?cate=10001&offset=0&sort=4&pay=-1"
+					},
+					{
+						"name": "会员专享",
+						"link": "http://v.qq.com/x/movielist/?cate=10001&offset=0&sort=5&pay=100002&area=-1&subtype=-1"
+					},
+					{
+						"name": "评分最高",
+						"link": "http://v.qq.com/x/movielist/?cate=10001&offset=0&sort=6&pay=-1"
+					},
+					{
+						"name": "当日最热",
+						"link": "http://v.qq.com/rank/detail/1_-1_-1_-1_2_-1.html"
+					}
+				]
+			},
+			{
+				"title": "按地区",
+				"items": [
+					{
+						"name": "内地",
+						"link": "http://v.qq.com/x/list/movie?area=100024&offset=0&cate=10001"
+					},
+					{
+						"name": "香港",
+						"link": "http://v.qq.com/x/list/movie?area=100025&cate=10001&offset=0"
+					},
+					{
+						"name": "美国",
+						"link": "http://v.qq.com/x/list/movie?offset=0&cate=10001&area=100029"
+					},
+					{
+						"name": "韩国",
+						"link": "http://v.qq.com/x/list/movie?offset=0&area=100028&cate=10001"
+					},
+					{
+						"name": "欧洲",
+						"link": "http://v.qq.com/x/list/movie?offset=0&area=100032&cate=10001"
+					},
+					{
+						"name": "日本",
+						"link": "http://v.qq.com/x/list/movie?cate=10001&offset=0&area=100027"
+					},
+					{
+						"name": "台湾",
+						"link": "http://v.qq.com/x/list/movie?offset=0&cate=10001&area=100026"
+					},
+					{
+						"name": "泰国",
+						"link": "http://v.qq.com/x/list/movie?offset=0&cate=10001&area=100031"
+					},
+					{
+						"name": "印度",
+						"link": "http://v.qq.com/x/list/movie?offset=0&area=100030&cate=10001"
+					},
+					{
+						"name": "其他",
+						"link": "http://v.qq.com/x/list/movie?offset=0&cate=10001&area=100033"
+					}
+				]
+			},
+			{
+				"title": "按类型",
+				"items": [
+					{
+						"name": "院线",
+						"link": "http://v.qq.com/x/list/movie?offset=0&cate=10001&subtype=100062"
+					},
+					{
+						"name": "剧情",
+						"link": "http://v.qq.com/x/list/movie?offset=0&subtype=100018&cate=10001"
+					},
+					{
+						"name": "喜剧",
+						"link": "http://v.qq.com/x/list/movie?subtype=100004&offset=0&cate=10001"
+					},
+					{
+						"name": "动作",
+						"link": "http://v.qq.com/x/list/movie?subtype=100061&cate=10001&offset=0"
+					},
+					{
+						"name": "爱情",
+						"link": "http://v.qq.com/x/list/movie?cate=10001&subtype=100005&offset=0"
+					},
+					{
+						"name": "犯罪",
+						"link": "http://v.qq.com/x/list/movie?offset=0&subtype=100008&cate=10001"
+					},
+					{
+						"name": "冒险",
+						"link": "http://v.qq.com/x/list/movie?subtype=100003&cate=10001&offset=0"
+					},
+					{
+						"name": "战争",
+						"link": "http://v.qq.com/x/list/movie?cate=10001&offset=0&subtype=100006"
+					},
+					{
+						"name": "惊悚",
+						"link": "http://v.qq.com/x/list/movie?subtype=100010&cate=10001&offset=0"
+					},
+					{
+						"name": "悬疑",
+						"link": "http://v.qq.com/x/list/movie?offset=0&cate=10001&subtype=100009"
+					},
+					{
+						"name": "恐怖",
+						"link": "http://v.qq.com/x/list/movie?subtype=100007&offset=0&cate=10001"
+					},
+					{
+						"name": "科幻",
+						"link": "http://v.qq.com/x/list/movie?subtype=100012&offset=0&cate=10001"
+					},
+					{
+						"name": "奇幻",
+						"link": "http://v.qq.com/x/list/movie?cate=10001&subtype=100016&offset=0"
+					},
+					{
+						"name": "家庭",
+						"link": "http://v.qq.com/x/list/movie?subtype=100017&offset=0&cate=10001"
+					},
+					{
+						"name": "动画",
+						"link": "http://v.qq.com/x/list/movie?subtype=100015&offset=0&cate=10001"
+					},
+					{
+						"name": "音乐",
+						"link": "http://v.qq.com/x/list/movie?cate=10001&subtype=100013&offset=0"
+					},
+					{
+						"name": "歌舞",
+						"link": "http://v.qq.com/x/list/movie?subtype=100014&cate=10001&offset=0"
+					},
+					{
+						"name": "历史",
+						"link": "http://v.qq.com/x/list/movie?cate=10001&subtype=100021&offset=0"
+					},
+					{
+						"name": "传记",
+						"link": "http://v.qq.com/x/list/movie?offset=0&subtype=100022&cate=10001"
+					},
+					{
+						"name": "武侠",
+						"link": "http://v.qq.com/x/list/movie?subtype=100011&offset=0&cate=10001"
+					},
+					{
+						"name": "伦理",
+						"link": "http://v.qq.com/x/list/movie?cate=10001&subtype=100019&offset=0"
+					},
+					{
+						"name": "纪录",
+						"link": "http://v.qq.com/x/list/movie?cate=10001&subtype=100020&offset=0"
+					}
+				]
+			},
+			{
+				"title": "按明星",
+				"items": [
+					{
+						"name": "成龙",
+						"link": "http://v.qq.com/x/star/74611"
+					},
+					{
+						"name": "周润发",
+						"link": "http://v.qq.com/x/star/72879"
+					},
+					{
+						"name": "周星驰",
+						"link": "http://v.qq.com/x/star/72862"
+					},
+					{
+						"name": "刘德华",
+						"link": "http://v.qq.com/x/star/72212"
+					},
+					{
+						"name": "林正英",
+						"link": "http://v.qq.com/x/star/75861"
+					},
+					{
+						"name": "林青霞",
+						"link": "http://v.qq.com/x/star/75900"
+					},
+					{
+						"name": "范冰冰",
+						"link": "http://v.qq.com/x/star/78152"
+					},
+					{
+						"name": "汤姆·汉克斯",
+						"link": "http://v.qq.com/x/star/76348"
+					},
+					{
+						"name": "马特·达蒙",
+						"link": "http://v.qq.com/x/star/80312"
+					}
+				]
+			}
+		],
+		"leftContent": {
+			"trivia": {
+				"title": "资讯·预告片",
+				"largeItem": {
+					"title": "西游降妖篇",
+					"src": "http://61.184.213.152/vhot2.qqvideo.tc.qq.com/f0367fsvtic.mp4?vkey=FF5BFA9D5755E43510800806A225871DE6D889BF8F9835D53BC3BD60E99D74FC3CFEF0068E460348C728DAB452CB47DDB89277029A861A06F55A6CEF3963FF5455197204AF5536E80532D9C743B987B677A5BFEE6CAA5A18&br=59&platform=2&fmt=auto&level=0&sdtfrom=v5010&guid=4a8d56b05fac9affa21eb5efbbb8da44"
+				},
+				"smallItems": [
+					{
+						"maintitle": "西游伏妖篇",
+						"subtitle": "吴亦凡版唐僧武功高强？",
+						"image": "http://puui.qpic.cn/tv/0/7153355_175100/0",
+						"link": "https://v.qq.com/x/cover/cgeg2g3t7b8gm6l/f0367fsvtic.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": "即将上映"
+					},
+					{
+						"maintitle": "功夫瑜伽-成龙混剪",
+						"subtitle": "成龙大哥陪你过大年",
+						"image": "http://puui.qpic.cn/tv/0/7153397_175100/0",
+						"link": "https://v.qq.com/x/cover/cmv67rzhrf5s5r3/k0369p5548d.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": "即将上映"
+					},
+					{
+						"maintitle": "大闹天竺-观影指南",
+						"subtitle": "朱时茂陈佩斯搞笑再联手",
+						"image": "http://puui.qpic.cn/tv/0/7153432_175100/0",
+						"link": "https://v.qq.com/x/cover/v1bclez1csji5za/h036941zn25.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": "即将上映"
+					},
+					{
+						"maintitle": "健忘村",
+						"subtitle": "王千源奇葩造型突破自我",
+						"image": "http://puui.qpic.cn/tv/0/7153467_175100/0",
+						"link": "https://v.qq.com/x/cover/vaxhdyje5v6u470/l0370xatb35.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					}
+				],
+				"middleItems": [
+					{
+						"title": {
+							"maintitle": "周一(1月23日)",
+							"subtitle": "麦田电影院"
+						},
+						"items": [
+							{
+								"maintitle": "永恒时刻",
+								"subtitle": "夫妻竟然双双出轨",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/2/26tb50885hvpnkq_l.jpg",
+								"link": "https://v.qq.com/x/cover/26tb50885hvpnkq.html"
+							},
+							{
+								"maintitle": "沙漠之花",
+								"subtitle": "割礼少女变名模",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/i/i8k9bn3r5mqqdg2_l.jpg",
+								"link": "https://v.qq.com/x/cover/i8k9bn3r5mqqdg2.html"
+							},
+							{
+								"maintitle": "歌剧魅影",
+								"subtitle": "歌女伯爵三角虐恋",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/l/l225hndezpbuqyu_l.jpg",
+								"link": "https://v.qq.com/x/cover/l225hndezpbuqyu.html"
+							},
+							{
+								"maintitle": "芝加哥",
+								"subtitle": "蛇蝎女郎罪与美",
+								"image": "http://puui.qpic.cn/tv/0/6071836_120160/0",
+								"link": "http://v.qq.com/cover/v/vdyticsdliummfr.html"
+							},
+							{
+								"maintitle": "阿甘正传",
+								"subtitle": "用一生看透美国",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/f/fyome6nxcm57dd9_l.jpg",
+								"link": "http://v.qq.com/cover/f/fyome6nxcm57dd9.html"
+							},
+							{
+								"maintitle": "黑天鹅",
+								"subtitle": "腹黑少女精分了",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/2/245lhwaydbcifcr_l.jpg",
+								"link": "http://v.qq.com/cover/2/245lhwaydbcifcr.html"
+							}
+						]
+					},
+					{
+						"title": {
+							"maintitle": "周二(1月24日)",
+							"subtitle": "电影最TOP"
+						},
+						"items": [
+							{
+								"maintitle": "教你泡妞神技",
+								"subtitle": "电影十大撩妹高手",
+								"image": "http://puui.qpic.cn/tv/0/6965984_120160/0",
+								"link": "https://v.qq.com/x/cover/h6cd1dh49bbuc4b/a0367mkhggt.html"
+							},
+							{
+								"maintitle": "最强狙击手盘点",
+								"subtitle": "谁才是第一杀手",
+								"image": "http://puui.qpic.cn/tv/0/6119780_120160/0",
+								"link": "https://v.qq.com/x/cover/h6cd1dh49bbuc4b/s03500luiql.html"
+							},
+							{
+								"maintitle": "聊聊河正宇",
+								"subtitle": "最会演戏的韩国大叔",
+								"image": "http://puui.qpic.cn/tv/0/6119779_120160/0",
+								"link": "https://v.qq.com/x/cover/h6cd1dh49bbuc4b/x0348csk0in.html"
+							}
+						]
+					},
+					{
+						"title": {
+							"maintitle": "周三(1月25日)",
+							"subtitle": "电影辣评社"
+						},
+						"items": [
+							{
+								"maintitle": "史上最残暴春节档",
+								"subtitle": "宝强星爷你挺谁",
+								"image": "http://puui.qpic.cn/tv/0/7057305_120160/0",
+								"link": "https://v.qq.com/x/cover/38c04c2jkiialcr/b0369gbgnch.html"
+							},
+							{
+								"maintitle": "少年巴比伦",
+								"subtitle": "你爸追你妈的故事",
+								"image": "http://puui.qpic.cn/tv/0/6575577_120160/0",
+								"link": "https://v.qq.com/x/cover/38c04c2jkiialcr/t0367tpvdvi.html"
+							},
+							{
+								"maintitle": "侠盗一号",
+								"subtitle": "叶问张麻子拯救银河",
+								"image": "http://puui.qpic.cn/tv/0/6447735_120160/0",
+								"link": "https://v.qq.com/x/cover/38c04c2jkiialcr/v0364lyco93.html"
+							},
+							{
+								"maintitle": "年度辣评盘点",
+								"subtitle": "2016最辣眼电影",
+								"image": "http://puui.qpic.cn/tv/0/6313803_120160/0",
+								"link": "https://v.qq.com/x/cover/je0je97fgpgnuqy.html"
+							},
+							{
+								"maintitle": "摆渡人",
+								"subtitle": "影帝也无法救烂片",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/8/8b82dffpkm2w1x5_l.jpg",
+								"link": "https://v.qq.com/x/cover/8b82dffpkm2w1x5.html"
+							},
+							{
+								"maintitle": "长城",
+								"subtitle": "除了景甜还有什么",
+								"image": "http://puui.qpic.cn/tv/0/6148104_120160/0",
+								"link": "http://v.qq.com/cover/u/ueh3az8f57t8ech.html"
+							},
+							{
+								"maintitle": "血战钢锯岭",
+								"subtitle": "抗日神片怎么拍",
+								"image": "http://puui.qpic.cn/tv/0/6092873_120160/0",
+								"link": "http://v.qq.com/cover/e/eth76491e1v2w78.html"
+							},
+							{
+								"maintitle": "三少爷的剑",
+								"subtitle": "古龙不再琼瑶乱入",
+								"image": "http://puui.qpic.cn/tv/0/6017239_120160/0",
+								"link": "http://v.qq.com/cover/x/xi4lcb4fja17crt.html"
+							},
+							{
+								"maintitle": "佩小姐的奇幻城堡",
+								"subtitle": "暗黑童话宗师来了",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/l/legk9vcu6ph67kw_l.jpg",
+								"link": "http://v.qq.com/cover/l/legk9vcu6ph67kw.html"
+							},
+							{
+								"maintitle": "神奇动物在哪里",
+								"subtitle": "哈里赫敏有话说",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/l/ldb7l93vk59trs2_l.jpg",
+								"link": "http://v.qq.com/cover/l/ldb7l93vk59trs2.html"
+							},
+							{
+								"maintitle": "我不是潘金莲",
+								"subtitle": "范冰冰教你读懂男人",
+								"image": "http://puui.qpic.cn/tv/0/5858526_120160/0",
+								"link": "http://v.qq.com/cover/l/l7p4a7djig1t9jd.html"
+							},
+							{
+								"maintitle": "比利林恩",
+								"subtitle": "如果中国翻拍会怎样",
+								"image": "http://puui.qpic.cn/tv/0/5780106_120160/0",
+								"link": "http://v.qq.com/cover/8/8gnklwfpe04mmlt.html"
+							}
+						]
+					},
+					{
+						"title": {
+							"maintitle": "周四(1月26日)",
+							"subtitle": "西施放送会"
+						},
+						"items": [
+							{
+								"maintitle": "金钱之味",
+								"subtitle": "老妇贪恋小鲜肉",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/a/an00pxl1qsrxmi4_l.jpg",
+								"link": "https://v.qq.com/x/cover/an00pxl1qsrxmi4/c0365aedric.html"
+							},
+							{
+								"maintitle": "僵尸叔叔",
+								"subtitle": "最勾人的女妖精",
+								"image": "http://puui.qpic.cn/tv/0/6106938_120160/0",
+								"link": "https://v.qq.com/x/cover/an00pxl1qsrxmi4/q0355k3kf65.html"
+							},
+							{
+								"maintitle": "旺角卡门",
+								"subtitle": "港片最缠绵的湿吻",
+								"image": "http://puui.qpic.cn/tv/0/6042510_120160/0",
+								"link": "https://v.qq.com/x/cover/an00pxl1qsrxmi4/m03539ux52a.html?"
+							},
+							{
+								"maintitle": "奸臣",
+								"subtitle": "看三遍细思恐极",
+								"image": "http://puui.qpic.cn/tv/0/5950938_120160/0",
+								"link": "https://v.qq.com/x/cover/an00pxl1qsrxmi4/u0351or8dpc.html"
+							},
+							{
+								"maintitle": "长城",
+								"subtitle": "华仔打怪兽靠谱吗",
+								"image": "http://puui.qpic.cn/tv/0/5873313_120160/0",
+								"link": "https://v.qq.com/x/cover/an00pxl1qsrxmi4/y0349o3c6s2.html"
+							},
+							{
+								"maintitle": "倩女幽魂3",
+								"subtitle": "只怪女鬼太销魂",
+								"image": "http://puui.qpic.cn/tv/0/5847033_120160/0",
+								"link": "https://v.qq.com/x/cover/an00pxl1qsrxmi4/r0347fcpdvc.html"
+							},
+							{
+								"maintitle": "比利林恩",
+								"subtitle": "李安能拿几座奥斯卡",
+								"image": "http://puui.qpic.cn/tv/0/5847013_120160/0",
+								"link": "https://v.qq.com/x/cover/an00pxl1qsrxmi4/l0344q28rgp.html"
+							},
+							{
+								"maintitle": "女生宿舍",
+								"subtitle": "谁是最幸福的宅男",
+								"image": "http://puui.qpic.cn/tv/0/5721536_120160/0",
+								"link": "http://v.qq.com/x/cover/an00pxl1qsrxmi4/g0342kacnb1.html"
+							},
+							{
+								"maintitle": "我不是潘金莲",
+								"subtitle": "范冰冰细说从头",
+								"image": "http://puui.qpic.cn/tv/0/5721519_120160/0",
+								"link": "http://v.qq.com/x/cover/an00pxl1qsrxmi4/l0340wk4z4q.html"
+							},
+							{
+								"maintitle": "玩命快递",
+								"subtitle": "斯坦森营救舒淇",
+								"image": "http://puui.qpic.cn/tv/0/5721493_120160/0",
+								"link": "http://v.qq.com/x/cover/an00pxl1qsrxmi4/i03381b50wu.html"
+							},
+							{
+								"maintitle": "E.T. 外星人",
+								"subtitle": "善良的人都该看的电影",
+								"image": "http://puui.qpic.cn/tv/0/5721469_120160/0",
+								"link": "http://v.qq.com/x/cover/an00pxl1qsrxmi4/s0336608a4g.html"
+							}
+						]
+					},
+					{
+						"title": {
+							"maintitle": "周五(1月27日)",
+							"subtitle": "培根唠电影"
+						},
+						"items": [
+							{
+								"maintitle": "本周新片推荐",
+								"subtitle": "大表姐星爵组CP",
+								"image": "http://puui.qpic.cn/tv/0/6488654_120160/0",
+								"link": "https://v.qq.com/x/cover/od7iivhfaw5t1b2.html"
+							},
+							{
+								"maintitle": "侠盗一号",
+								"subtitle": "星战硬汉组CP",
+								"image": "http://puui.qpic.cn/tv/0/6360722_120160/0",
+								"link": "https://v.qq.com/x/cover/jyc0zyc7bs51dac.html"
+							},
+							{
+								"maintitle": "本周新片看神马",
+								"subtitle": "王家卫PK成龙",
+								"image": "http://puui.qpic.cn/tv/0/6173149_120160/0",
+								"link": "https://v.qq.com/x/cover/63v175le4h4lhz4.html"
+							},
+							{
+								"maintitle": "年末大战打响，",
+								"subtitle": "长城PK罗曼蒂克",
+								"image": "http://puui.qpic.cn/tv/0/6117757_120160/0",
+								"link": "http://v.qq.com/cover/n/n9qcxtu8ks4ov6z.html"
+							},
+							{
+								"maintitle": "萨利机长",
+								"subtitle": "独家片段抢先看",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/1/1og1m7b3hc5b3cc_l.jpg",
+								"link": "http://v.qq.com/cover/1/1og1m7b3hc5b3cc.html"
+							},
+							{
+								"maintitle": "本周新片看神马",
+								"subtitle": "二次元逆袭影市",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/w/ws92dhtygr919gt_l.jpg",
+								"link": "http://v.qq.com/cover/w/ws92dhtygr919gt.html"
+							},
+							{
+								"maintitle": "本周新片看神马",
+								"subtitle": "小雀斑接棒哈利波特",
+								"image": "http://puui.qpic.cn/tv/0/5882938_120160/0",
+								"link": "http://v.qq.com/cover/w/wem2wjgbfyu7rqr.html"
+							},
+							{
+								"maintitle": "我不是潘金莲",
+								"subtitle": "危险妻子处处有",
+								"image": "http://puui.qpic.cn/tv/0/5811065_120160/0",
+								"link": "http://v.qq.com/cover/u/ux7e9fx3qt09pgz.html"
+							},
+							{
+								"maintitle": "本周新片看神马",
+								"subtitle": "李安偷尝过的禁果",
+								"image": "http://puui.qpic.cn/tv/0/5809396_120160/0",
+								"link": "http://v.qq.com/cover/r/rmv0fw6tjdtxly9.html"
+							}
+						]
+					},
+					{
+						"title": {
+							"maintitle": "周六(1月28日)",
+							"subtitle": "新片大判官"
+						},
+						"items": [
+							{
+								"maintitle": "神奇动物在哪里",
+								"subtitle": "新男神小雀斑来了",
+								"image": "http://puui.qpic.cn/tv/0/5901160_120160/0",
+								"link": "http://v.qq.com/cover/i/i34pmvfqpl0nvha.html"
+							},
+							{
+								"maintitle": "比利·林恩的中场战事",
+								"subtitle": "李安黑科技小试牛刀",
+								"image": "http://puui.qpic.cn/tv/0/5765656_120160/0",
+								"link": "http://v.qq.com/cover/z/zg2dlshexq11mrq.html"
+							}
+						]
+					},
+					{
+						"title": {
+							"maintitle": "周日(1月29日)",
+							"subtitle": "周末宅影院"
+						},
+						"items": [
+							{
+								"maintitle": "更新至156期",
+								"subtitle": "贺新春没他怎行？",
+								"image": "http://puui.qpic.cn/tv/0/6694212_120160/0",
+								"link": "http://v.qq.com/movie/p/topic/comedian/index.html"
+							},
+							{
+								"maintitle": "更新至155期",
+								"subtitle": "跟着动画环游世界",
+								"image": "http://puui.qpic.cn/tv/0/6547265_120160/0",
+								"link": "http://v.qq.com/movie/p/topic/culture/index.html"
+							},
+							{
+								"maintitle": "更新至153期",
+								"subtitle": "哪部喜剧陪你跨年",
+								"image": "http://puui.qpic.cn/tv/0/6240484_120160/0",
+								"link": "http://v.qq.com/movie/p/topic/zmz153/index.html"
+							},
+							{
+								"maintitle": "更新至150期",
+								"subtitle": "爆裂热血战争片",
+								"image": "http://puui.qpic.cn/tv/0/6048292_120160/0",
+								"link": "http://v.qq.com/movie/p/topic/warfilm/index.html"
+							},
+							{
+								"maintitle": "更新至149期",
+								"subtitle": "日漫逆袭中国银幕",
+								"image": "http://puui.qpic.cn/tv/0/5963487_120160/0",
+								"link": "http://v.qq.com/movie/p/topic/anime/index.html"
+							},
+							{
+								"maintitle": "更新至148期",
+								"subtitle": "魔法师人气大比拼",
+								"image": "http://puui.qpic.cn/tv/0/5963441_120160/0",
+								"link": "http://v.qq.com/movie/p/topic/zmzyy148/index.html"
+							},
+							{
+								"maintitle": "更新至151期",
+								"subtitle": "新好莱坞打工仔",
+								"image": "http://puui.qpic.cn/tv/0/6119285_120160/0",
+								"link": "http://v.qq.com/movie/p/topic/hollywood/index.html"
+							}
+						]
+					}
+				]
+			},
+			"premiereTheaters":{
+				"title": "首播影院",
+				"link": "http://v.qq.com/x/movielist/",
+				"content": [
+					{
+						"maintitle": "萨利机长",
+						"subtitle": "汤姆·汉克斯还原惊险空难",
+						"image": "http://puui.qpic.cn/tv/0/7123606_175245/0",
+						"link": "https://v.qq.com/x/cover/pbju53ju4kwt7x7.html",
+						"subscript": "",
+						"figureInfo": "430.0万",
+						"score": "8.8",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "冲天火",
+						"subtitle": "心疼！吴彦祖被打休克",
+						"image": "http://puui.qpic.cn/tv/0/6940636_175245/0",
+						"link": "https://v.qq.com/x/cover/z4h0688knjb2ybe.html",
+						"subscript": "",
+						"figureInfo": "1866.6万",
+						"score": "7.2",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "追捕野蛮人",
+						"subtitle": "呆萌小胖竟成全国通缉犯",
+						"image": "http://puui.qpic.cn/tv/0/7052010_175245/0",
+						"link": "https://v.qq.com/x/cover/ymvs3uanwp5ckhh.html",
+						"subscript": "",
+						"figureInfo": "41.8万",
+						"score": "8.0",
+						"leftsubscript": "会员用券"
+					},
+					{
+						"maintitle": "我不是潘金莲",
+						"subtitle": "范冰冰遭渣男背叛",
+						"image": "http://puui.qpic.cn/tv/0/6749353_175245/0",
+						"link": "https://v.qq.com/x/cover/wwx7abetdayqp93.html",
+						"subscript": "",
+						"figureInfo": "1.3亿",
+						"score": "7.1",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "少年",
+						"subtitle": "欧豪张译深陷白骨谜案",
+						"image": "http://i.gtimg.cn/qqlive/images/20170120/i1484901839_1.jpg",
+						"link": "https://v.qq.com/x/cover/1lhcgag27fvsvpd.html",
+						"subscript": "",
+						"figureInfo": "9649.1万",
+						"score": "7.5",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "绝地逃亡",
+						"subtitle": "成龙 约翰尼荒岛逃生",
+						"image": "http://puui.qpic.cn/tv/0/6770953_175245/0",
+						"link": "https://v.qq.com/x/cover/vz8j5agokp0yugl.html",
+						"subscript": "",
+						"figureInfo": "1.4亿",
+						"score": "7.3",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "夺路而逃",
+						"subtitle": "张一山泡面头造型太惊艳",
+						"image": "http://puui.qpic.cn/tv/0/6911962_175245/0",
+						"link": "https://v.qq.com/x/cover/r2oh94345h77r8g.html",
+						"subscript": "",
+						"figureInfo": "2391.5万",
+						"score": "3.4",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "三人行·杜琪峰回归",
+						"subtitle": "悍匪钟汉良走投无路",
+						"image": "http://puui.qpic.cn/tv/0/6772529_175245/0",
+						"link": "https://v.qq.com/x/cover/ndva5igizz2g6ju.html",
+						"subscript": "",
+						"figureInfo": "7147.9万",
+						"score": "6.1",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "六弄咖啡馆",
+						"subtitle": "董子健暴揍金马最佳男配",
+						"image": "http://puui.qpic.cn/tv/0/6282403_175245/0",
+						"link": "https://v.qq.com/x/cover/dv20z1rh21qqgyx.html",
+						"subscript": "",
+						"figureInfo": "1767.6万",
+						"score": "6.3",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "巴黎危机",
+						"subtitle": "黑白双雄无替身高空对决",
+						"image": "http://puui.qpic.cn/tv/0/6678926_175245/0",
+						"link": "https://v.qq.com/x/cover/og3aojlettojsad.html",
+						"subscript": "",
+						"figureInfo": "1713.8万",
+						"score": "6.5",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "我妻子的一切",
+						"subtitle": "丈夫雇人勾引自家娇妻",
+						"image": "http://puui.qpic.cn/tv/0/6468735_175245/0",
+						"link": "https://v.qq.com/x/cover/f36i18hhqebq2iu.html",
+						"subscript": "",
+						"figureInfo": "3452.0万",
+						"score": "7.6",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "潜伏者",
+						"subtitle": "绝命毒师化身联邦探员",
+						"image": "http://puui.qpic.cn/tv/0/6417662_175245/0",
+						"link": "https://v.qq.com/x/cover/nrauokci5fcztse.html",
+						"subscript": "",
+						"figureInfo": "1540.1万",
+						"score": "7.3",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "跑调天后",
+						"subtitle": "梅姨休叔甜蜜演绎姐弟恋",
+						"image": "http://puui.qpic.cn/tv/0/6282266_175245/0",
+						"link": "https://v.qq.com/x/cover/3lh3tv3h60n83r4.html",
+						"subscript": "",
+						"figureInfo": "352.7万",
+						"score": "7.0",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "中国城",
+						"subtitle": "黑社会底层少女的救赎史",
+						"image": "http://puui.qpic.cn/tv/0/6238567_175245/0",
+						"link": "https://v.qq.com/x/cover/fhesnkpm5pfj6gh.html",
+						"subscript": "独播",
+						"figureInfo": "1272.3万",
+						"score": "8.2",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "七月与安生",
+						"subtitle": "周冬雨马思纯影后飙演技",
+						"image": "http://puui.qpic.cn/tv/0/6205524_175245/0",
+						"link": "https://v.qq.com/x/cover/q8742fxhp6pj7zv.html",
+						"subscript": "",
+						"figureInfo": "1.6亿",
+						"score": "8.0",
+						"leftsubscript": ""
+					}
+				]
+			},
+			"winterVideo":{
+				"title": "寒假终于来了",
+				"link": "",
+				"content": [
+					{
+						"maintitle": "功夫熊猫3",
+						"subtitle": "阿宝变神龙！要上天惹~",
+						"image": "http://puui.qpic.cn/tv/0/6699728_175245/0",
+						"link": "https://v.qq.com/x/cover/q8xwiu8yyxahzz8.html",
+						"subscript": "",
+						"figureInfo": "1.4亿",
+						"score": "8.2",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "冰川时代2：融冰之灾",
+						"subtitle": "温暖雷囧史前萌物再来袭",
+						"image": "http://puui.qpic.cn/tv/0/6699688_175245/0",
+						"link": "https://v.qq.com/x/cover/c5gf072ldgv9yv4.html",
+						"subscript": "",
+						"figureInfo": "531.0万",
+						"score": "8.5",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "愤怒的小鸟",
+						"subtitle": "愤怒红鸟决战捣蛋绿猪",
+						"image": "http://puui.qpic.cn/tv/0/6699644_175245/0",
+						"link": "https://v.qq.com/x/cover/5419hdc3tni914f.html",
+						"subscript": "",
+						"figureInfo": "4250.2万",
+						"score": "7.4",
+						"leftsubscript": "会员用券"
+					},
+					{
+						"maintitle": "爱宠大机密",
+						"subtitle": "宠物上演甄嬛传！萌哭",
+						"image": "http://puui.qpic.cn/tv/0/6699602_175245/0",
+						"link": "https://v.qq.com/x/cover/gd4ls0ntz1hgf0d.html",
+						"subscript": "",
+						"figureInfo": "3647.8万",
+						"score": "8.2",
+						"leftsubscript": "会员用券"
+					},
+					{
+						"maintitle": "逗鸟外传：萌宝满天飞",
+						"subtitle": "送子鸟上天入地送Baby",
+						"image": "http://puui.qpic.cn/tv/0/6699553_175245/0",
+						"link": "https://v.qq.com/x/cover/ordx2gh5t7x0o04.html",
+						"subscript": "独播",
+						"figureInfo": "4531.9万",
+						"score": "8.1",
+						"leftsubscript": "会员免费"
+					}
+				]
+			},
+			"membersOnly":{
+				"title": "会员专区",
+				"link": "http://film.qq.com/",
+				"content": [
+					{
+						"maintitle": "三少爷的剑",
+						"subtitle": "尔冬升徐克重塑古龙经典",
+						"image": "http://puui.qpic.cn/tv/0/6699211_175245/0",
+						"link": "https://v.qq.com/x/cover/wpl6khm6pzauf8i.html",
+						"subscript": "",
+						"figureInfo": "4953.8万",
+						"score": "7.6",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "凄灵室",
+						"subtitle": "张一山挑战烧脑恐怖片",
+						"image": "http://puui.qpic.cn/tv/0/6699359_175245/0",
+						"link": "https://v.qq.com/x/cover/y45mvf9japwd8ff.html",
+						"subscript": "",
+						"figureInfo": "6780.8万",
+						"score": "6.5",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "28岁未成年",
+						"subtitle": "倪妮情陷霍建华王大陆",
+						"image": "http://puui.qpic.cn/tv/0/6699300_175245/0",
+						"link": "https://v.qq.com/x/cover/kp4m5ys7tms73cd.html",
+						"subscript": "",
+						"figureInfo": "8167.2万",
+						"score": "7.5",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "王牌逗王牌",
+						"subtitle": "囧探联手神偷爆笑夺宝",
+						"image": "http://i.gtimg.cn/qqlive/images/20161104/i1478249337_1.jpg",
+						"link": "http://film.qq.com/cover/1/1bav7atk48laen2.html",
+						"subscript": "",
+						"figureInfo": "9623.6万",
+						"score": "6.8",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "湄公河行动",
+						"subtitle": "彭于晏百变造型身份成谜",
+						"image": "http://puui.qpic.cn/tv/0/6368651_175245/0",
+						"link": "https://v.qq.com/x/cover/h188mdjtrh3up22.html",
+						"subscript": "",
+						"figureInfo": "1.3亿",
+						"score": "8.6",
+						"leftsubscript": "会员免费"
+					}
+				]
+			},
+			"ticketArea":{
+				"title": "影讯&购票专区",
+				"link": "",
+				"content": [
+					{
+						"maintitle": "太空旅客",
+						"subtitle": "",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/t/tfdih8i0jypj7da_y.jpg",
+						"link": "http://v.qq.com/prev/t/tfdih8i0jypj7da.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "7.0",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "西游伏妖篇",
+						"subtitle": "",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/c/cgeg2g3t7b8gm6l_y.jpg",
+						"link": "http://v.qq.com/prev/c/cgeg2g3t7b8gm6l.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "6.2",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "情圣",
+						"subtitle": "",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/g/g2giazodwnfdjh6_y.jpg",
+						"link": "http://v.qq.com/prev/g/g2giazodwnfdjh6.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "6.2",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "星球大战外传：侠盗一号",
+						"subtitle": "",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/5/516bj2mk4kzvi5h_y.jpg",
+						"link": "http://v.qq.com/prev/5/516bj2mk4kzvi5h.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "6.7",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "大闹天竺",
+						"subtitle": "",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/v/v1bclez1csji5za_y.jpg",
+						"link": "http://v.qq.com/prev/v/v1bclez1csji5za.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "7.0",
+						"leftsubscript": ""
+					}
+				]
+			},
+			"microfilm":{
+				"title": "微电影",
+				"link": "",
+				"content": [
+					{
+						"maintitle": "摸金笑尉（下）",
+						"subtitle": "摸金后人守护墓穴宝藏",
+						"image": "http://puui.qpic.cn/tv/0/6666277_220160/0",
+						"link": "https://v.qq.com/x/cover/0n3hfs4gnhlfch6.html",
+						"subscript": "独播",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "摸金笑尉（上）",
+						"subtitle": "摸金后人守护墓穴宝藏",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/g/g9q1wxkbitun6wu_d.jpg",
+						"link": "https://v.qq.com/x/cover/g9q1wxkbitun6wu.html",
+						"subscript": "独播",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "绝命循环",
+						"subtitle": "清纯校花沦落风尘变舞女",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/4/4czc3vpxsk7qy87_d.jpg",
+						"link": "https://v.qq.com/x/cover/4czc3vpxsk7qy87.html",
+						"subscript": "独播",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "大宋绯闻录",
+						"subtitle": "纯良版潘金莲执恋武二郎",
+						"image": "http://puui.qpic.cn/tv/0/6482551_190110/0",
+						"link": "https://v.qq.com/x/cover/qyn46squ9zues4j.html",
+						"subscript": "独播",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "飞鸿笑传",
+						"subtitle": "少年飞鸿初露锋芒无惧江湖",
+						"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/7/7ahtjlgnr7vtk1w_d.jpg",
+						"link": "https://v.qq.com/x/cover/7ahtjlgnr7vtk1w.html",
+						"subscript": "独播",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": "会员免费"
+					}
+				]
+			},
+			"featuresPlan":{
+				"title": "特色策划",
+				"link":"",
+				"content": [
+					{
+						"maintitle": "贺新春没有他们怎能行？",
+						"subtitle": "从星爷徐克双剑合璧《西游伏妖篇》，到成龙集齐鲜肉《功夫瑜伽》，宝强自导自演极具咖喱风味《大闹天竺》，再到空降的《乘风破浪》...今年的春节档爆棚来献礼。本期周末宅为你盘点这些年年贺岁必见老牌笑匠，让你乐到停不下来！",
+						"image": "",
+						"link": "https://v.qq.com/x/cover/wmey1i8mowpiiqu.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "西游记之孙悟空三打白骨精",
+						"subtitle": "霸气孙猴子怎能不看？",
+						"image": "http://puui.qpic.cn/tv/0/6696230_190110/0",
+						"link": "https://v.qq.com/x/cover/wmey1i8mowpiiqu.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "人在囧途",
+						"subtitle": "超经典！每年春运必回味",
+						"image": "http://puui.qpic.cn/tv/0/6696167_190110/0",
+						"link": "https://v.qq.com/x/cover/wlb7ba6jg8x1rjm.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "绝地逃亡",
+						"subtitle": "成龙范冰冰带你一路开打",
+						"image": "http://puui.qpic.cn/tv/0/6696011_190110/0",
+						"link": "https://v.qq.com/x/cover/vz8j5agokp0yugl.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "过年好",
+						"subtitle": "赵本山闫妮陪你吃年夜饭",
+						"image": "http://puui.qpic.cn/tv/0/6695929_190110/0",
+						"link": "https://v.qq.com/x/cover/lse5mcdlvhr3qoi.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					}
+				]
+			},
+			"wonderfulTopic":{
+				"title": "精彩专题",
+				"link": "",
+				"content": [
+					{
+						"maintitle": "冯氏喜剧经典二十年",
+						"subtitle": "从当年的顽主到如今的老炮儿，冯小刚喜剧电影陪伴观众二十载，经典作品全回顾！",
+						"image": "http://puui.qpic.cn/tv/0/5815508_220160/0",
+						"link": "http://v.qq.com/movie/p/topic/feng/index.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "华人之光李安",
+						"subtitle": "电影是一生的冒险",
+						"image": "http://puui.qpic.cn/tv/0/5815509_190110/0",
+						"link": "http://v.qq.com/movie/p/topic/anglee/index.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "国产悬疑片良心之作",
+						"subtitle": "不做国产黑！且看且珍惜！",
+						"image": "http://puui.qpic.cn/tv/0/5815463_190110/0",
+						"link": "http://v.qq.com/movie/p/topic/suspense/index.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "万圣节电影策划",
+						"subtitle": "给你讲个鬼故事你可别笑",
+						"image": "http://puui.qpic.cn/tv/0/5613710_190110/0",
+						"link": "http://v.qq.com/movie/p/topic/halloween/index.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "今年国庆怎么过？",
+						"subtitle": "七天度假模式不重样儿",
+						"image": "http://puui.qpic.cn/tv/0/5613691_190110/0",
+						"link": "http://v.qq.com/movie/p/topic/2016national/index.html",
+						"subscript": "",
+						"figureInfo": "",
+						"score": "",
+						"leftsubscript": ""
+					}
+				]
+			},
+			"chineseStrongFile":{
+				"title": "华语强档",
+				"link": "",
+				"content": [
+					{
+						"maintitle": "九层妖塔",
+						"subtitle": "赵又廷姚晨秘境赴险前途未卜",
+						"image": "http://i.gtimg.cn/qqlive/images/20170122/i1485076018_1.jpg",
+						"link": "https://v.qq.com/x/cover/urhiry4i3p8xahy.html",
+						"subscript": "",
+						"figureInfo": "1.7亿",
+						"score": "7.9",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "人再囧途之泰囧",
+						"subtitle": "三大囧神泰国夺命狂欢",
+						"image": "http://i.gtimg.cn/qqlive/images/20170122/i1485075839_1.jpg",
+						"link": "https://v.qq.com/x/cover/tjtiyg1qe0zkhdk.html",
+						"subscript": "",
+						"figureInfo": "1.7亿",
+						"score": "7.9",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "夜孔雀",
+						"subtitle": "刘亦菲突破尺度文艺之作",
+						"image": "http://i.gtimg.cn/qqlive/images/20170122/i1485075760_1.jpg",
+						"link": "https://v.qq.com/x/cover/qa470oxx8mvj5s5.html",
+						"subscript": "",
+						"figureInfo": "5945.1万",
+						"score": "7.0",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "谎言西西里",
+						"subtitle": "李准基周冬雨“甜而虐”的爱情",
+						"image": "http://i.gtimg.cn/qqlive/images/20170122/i1485075566_1.jpg",
+						"link": "https://v.qq.com/x/cover/cffwti36evyiifu.html",
+						"subscript": "",
+						"figureInfo": "4903.7万",
+						"score": "5.8",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "一路顺疯",
+						"subtitle": "陈思诚包贝尔囧途追爱",
+						"image": "http://puui.qpic.cn/tv/0/6870130_190276/0",
+						"link": "https://v.qq.com/x/cover/a9ucyuuxmhztcw9.html",
+						"subscript": "",
+						"figureInfo": "1178.7万",
+						"score": "5.3",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "赏金猎人",
+						"subtitle": "高颜值猎人团搞笑出征",
+						"image": "http://i.gtimg.cn/qqlive/images/20170122/i1485075446_1.jpg",
+						"link": "https://v.qq.com/x/cover/25nf6zxerv4j4qm.html",
+						"subscript": "",
+						"figureInfo": "1.3亿",
+						"score": "6.9",
+						"leftsubscript": ""
+					}
+				]
+			},
+			"diffColorsEA":{
+				"title": "异色欧美",
+				"link": "",
+				"content": [
+					{
+						"maintitle": "《星际迷航3》系列",
+						"subtitle": "企业号再次启航燃爆宇宙",
+						"image": "http://puui.qpic.cn/tv/0/6969921_190276/0",
+						"link": "https://v.qq.com/x/cover/iwz048dyccryugm.html",
+						"subscript": "独播",
+						"figureInfo": "5033.2万",
+						"score": "7.6",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "《美国队长》系列",
+						"subtitle": "从屌丝到超级英雄的蜕变",
+						"image": "http://puui.qpic.cn/tv/0/6969152_190276/0",
+						"link": "https://v.qq.com/x/cover/kzhcitf07bg2pxy.html",
+						"subscript": "",
+						"figureInfo": "8084.5万",
+						"score": "8.2",
+						"leftsubscript": "会员用券"
+					},
+					{
+						"maintitle": "《黑衣人》系列",
+						"subtitle": "就喜欢你们这么吊打外星人",
+						"image": "http://puui.qpic.cn/tv/0/6969088_190276/0",
+						"link": "https://v.qq.com/x/cover/r3urd5gz9c3q0s1.html",
+						"subscript": "",
+						"figureInfo": "1262.7万",
+						"score": "7.9",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "《加勒比海盗》系列",
+						"subtitle": "海上最有魔性的海盗船长",
+						"image": "http://puui.qpic.cn/tv/0/6969198_190276/0",
+						"link": "https://v.qq.com/x/cover/m63g578728dv56w.html",
+						"subscript": "",
+						"figureInfo": "993.7万",
+						"score": "7.9",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "《速度与激情》系列",
+						"subtitle": "用速度纪念保罗·沃克",
+						"image": "http://puui.qpic.cn/tv/0/6969319_190276/0",
+						"link": "https://v.qq.com/x/cover/dv71ekj7urmxkvp.html",
+						"subscript": "",
+						"figureInfo": "1.5亿",
+						"score": "8.8",
+						"leftsubscript": "单片付费"
+					},
+					{
+						"maintitle": "《黑客帝国》系列",
+						"subtitle": "边耍帅边拯救世界",
+						"image": "http://puui.qpic.cn/tv/0/6969011_190276/0",
+						"link": "https://v.qq.com/x/cover/5enw5bo1cod06jp.html",
+						"subscript": "",
+						"figureInfo": "431.8万",
+						"score": "8.9",
+						"leftsubscript": "会员免费"
+					}
+				]
+			},
+			"asiaFeatured":{
+				"title": "亚洲精选",
+				"link": "",
+				"content": [
+					{
+						"maintitle": "我的哥哥",
+						"subtitle": "元斌颜值巅峰被弟弟欺辱",
+						"image": "http://puui.qpic.cn/tv/0/6677078_190276/0",
+						"link": "https://v.qq.com/x/cover/bw564hgxqgw4ar4.html",
+						"subscript": "",
+						"figureInfo": "104.9万",
+						"score": "8.2",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "别哭妈妈",
+						"subtitle": "女儿惨遭校园凌辱自杀",
+						"image": "http://puui.qpic.cn/tv/0/6677349_190276/0",
+						"link": "https://v.qq.com/x/cover/btjisdbucraebym.html",
+						"subscript": "",
+						"figureInfo": "1282.6万",
+						"score": "6.1",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "新年行动",
+						"subtitle": "印度炫舞魔盗团火力全开",
+						"image": "http://puui.qpic.cn/tv/0/6949493_190276/0",
+						"link": "https://v.qq.com/x/cover/a18c7957sukpu3b.html",
+						"subscript": "",
+						"figureInfo": "224.4万",
+						"score": "6.8",
+						"leftsubscript": "会员免费"
+					},
+					{
+						"maintitle": "我家乐翻天",
+						"subtitle": "喜剧世家的爆笑日常",
+						"image": "http://puui.qpic.cn/tv/0/6949320_190276/0",
+						"link": "https://v.qq.com/x/cover/fla9il3jkxy7vd5.html",
+						"subscript": "",
+						"figureInfo": "73.8万",
+						"score": "8.3",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "千与千寻",
+						"subtitle": "经典神作 少女与神龙之恋",
+						"image": "http://puui.qpic.cn/tv/0/6688929_190276/0",
+						"link": "https://v.qq.com/x/cover/dxejskxh9kkcry3.html",
+						"subscript": "",
+						"figureInfo": "3340.7万",
+						"score": "9.4",
+						"leftsubscript": ""
+					},
+					{
+						"maintitle": "罗生门",
+						"subtitle": "黑泽明成名作 娇妻遭辱谁之过",
+						"image": "http://puui.qpic.cn/tv/0/6689020_190276/0",
+						"link": "https://v.qq.com/x/cover/ghavn75ulwpjsqr.html",
+						"subscript": "",
+						"figureInfo": "137.0万",
+						"score": "9.1",
+						"leftsubscript": ""
+					}
+				]
+			}
+		},
+		"rightContent":{
+			"programList":{
+				"title":"节目单",
+				"items":[
+					{
+						"title": "预告",
+						"list": [
+							{
+								"maintitle": "女法医手记之最后真相",
+								"subtitle": "2月28日10点全网独播",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/ui0gvnq3ykcf9ir.html"
+							}
+						]
+					},
+					{
+						"title": "2017-02-28 00:00全网独播",
+						"list": [
+							{
+								"maintitle": "间谍同盟",
+								"subtitle": "2月28日0点全网独播",
+								"image": "http://inews.gtimg.com/newsapp_ls/0/1068814863_6636/0",
+								"link": "https://v.qq.com/x/cover/miwsmoqry9xtccb.html"
+							},
+							{
+								"maintitle": "恋爱的正确姿势2",
+								"subtitle": "2月17日10点全网独播",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/d1m8vb8maze1bxe.html"
+							},
+							{
+								"maintitle": "但丁密码",
+								"subtitle": "1月31日0点全网首播",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/szxcws7oig66hhi.html"
+							}
+						]
+					},
+					{
+						"title": "刚刚更新",
+						"list": []
+					},
+					{
+						"title": "全网独播",
+						"list": [
+							{
+								"maintitle": "萨利机长",
+								"subtitle": "1月27日0点全网独播",
+								"image": "http://inews.gtimg.com/newsapp_ls/0/1073438791_6636/0",
+								"link": "https://v.qq.com/x/cover/pbju53ju4kwt7x7.html"
+							},
+							{
+								"maintitle": "冲天火",
+								"subtitle": "1月24日16点全网首播",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/z4h0688knjb2ybe.html"
+							},
+							{
+								"maintitle": "我不是潘金莲",
+								"subtitle": "1月21日16点全网首播",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/wwx7abetdayqp93.html"
+							},
+							{
+								"maintitle": "少年",
+								"subtitle": "1月20日16点全网首播",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/1lhcgag27fvsvpd.html"
+							}
+						]
+					},
+					{
+						"title": "全网独播",
+						"list": [
+							{
+								"maintitle": "侠探杰克：永不回头",
+								"subtitle": "1月19日0点首播",
+								"image": "http://inews.gtimg.com/newsapp_ls/0/986780237_6636/0",
+								"link": "https://v.qq.com/x/cover/n3n4sv44tavrxz4.html"
+							},
+							{
+								"maintitle": "呆呆计划",
+								"subtitle": "1月18日16点全网首播",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/ndq779yc9mf3j86.html"
+							}
+						]
+					},
+					{
+						"title": "全网独播",
+						"list": [
+							{
+								"maintitle": "摸金笑尉（上）",
+								"subtitle": "1月17日全网独播",
+								"image": "http://inews.gtimg.com/newsapp_ls/0/986786536_6636/0",
+								"link": "https://v.qq.com/x/cover/g9q1wxkbitun6wu.html"
+							}
+						]
+					},
+					{
+						"title": "全网独播",
+						"list": [
+							{
+								"maintitle": "绝命循环",
+								"subtitle": "1月13日全网独播",
+								"image": "http://inews.gtimg.com/newsapp_ls/0/945086057_6636/0",
+								"link": "https://v.qq.com/x/cover/4czc3vpxsk7qy87.html"
+							}
+						]
+					},
+					{
+						"title": "全网独播",
+						"list": [
+							{
+								"maintitle": "大宋绯闻录",
+								"subtitle": "1月6日全网独播",
+								"image": "http://inews.gtimg.com/newsapp_ls/0/986775712_6636/0",
+								"link": "https://v.qq.com/x/cover/qyn46squ9zues4j.html"
+							},
+							{
+								"maintitle": "凄灵室",
+								"subtitle": "1月5日16点首播",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/y45mvf9japwd8ff.html"
+							},
+							{
+								"maintitle": "名侦探柯南：纯黑的噩梦",
+								"subtitle": "12月30日16:00 全网首播",
+								"image": "",
+								"link": "https://v.qq.com/x/cover/gpcfwzyrfzyalj7.html"
+							}
+						]
+					}
+				]
+			},
+			"boxOffice": {
+				"title": "票房榜",
+				"content": [
+					{
+						"title": "内地周榜",
+						"content": [
+							{
+								"title": "隐藏人物",
+								"image": "http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/y/y14zhk72rlww9qi_d.jpg",
+								"link": "https://v.qq.com/x/cover/y14zhk72rlww9qi.html",
+								"watchtimes": "$2045万"
+							},
+							{
+								"title": "爱乐之城",
+								"link": "http://v.qq.com/cover/5/5w26ewj09n3b0lz.html",
+								"watchtimes": "$1450万"
+							},
+							{
+								"title": "欢乐好声音",
+								"link": "https://v.qq.com/x/cover/7g0jlcbwbuay8q2.html",
+								"watchtimes": "$1381万"
+							},
+							{
+								"title": "星球大战外传：侠盗一号",
+								"link": "http://v.qq.com/cover/5/516bj2mk4kzvi5h.html",
+								"watchtimes": "$1375万"
+							},
+							{
+								"title": "送葬人",
+								"link": "https://v.qq.com/x/cover/smdgvu13vb0jbd4.html",
+								"watchtimes": "$1338万"
+							},
+							{
+								"title": "爱国者日",
+								"link": "https://v.qq.com/x/cover/5kolaqljqc3bsim.html",
+								"watchtimes": "$1200万"
+							},
+							{
+								"title": "怪兽卡车",
+								"link": "https://v.qq.com/x/cover/ba80anndrqeis2y.html",
+								"watchtimes": "$1050万"
+							},
+							{
+								"title": "不眠夜",
+								"link": "https://v.qq.com/x/cover/vr7rjbh06wxqdeq.html",
+								"watchtimes": "$846万"
+							},
+							{
+								"title": "黑夜传说5：血战",
+								"link": "https://v.qq.com/x/cover/ac7dw0t5w5nxy96.html",
+								"watchtimes": "$581万"
+							},
+							{
+								"title": "太空旅客",
+								"link": "https://v.qq.com/x/cover/tfdih8i0jypj7da.html",
+								"watchtimes": "$562万"
+							}
+						]
+					},
+					{
+						"title": "北美周末榜",
+						"content": [
+							{
+								"title": "太空旅客",
+								"image": "http://puui.qpic.cn/tv/0/6638436_265100/0",
+								"link": "https://v.qq.com/x/cover/tfdih8i0jypj7da.html",
+								"watchtimes": "￥1.19亿"
+							},
+							{
+								"title": "星球大战外传：侠盗一号",
+								"link": "https://v.qq.com/x/cover/516bj2mk4kzvi5h.html",
+								"watchtimes": "￥6259万"
+							},
+							{
+								"title": "情圣",
+								"link": "https://v.qq.com/x/cover/g2giazodwnfdjh6.html",
+								"watchtimes": "￥5254万"
+							},
+							{
+								"title": "倒霉特工熊",
+								"link": "https://v.qq.com/x/cover/3v5ksc6jiwskqw4.html",
+								"watchtimes": "￥4058万"
+							},
+							{
+								"title": "魔弦传说",
+								"link": "https://v.qq.com/x/cover/ur7refepdgzzu38.html",
+								"watchtimes": "￥2083万"
+							},
+							{
+								"title": "铁道飞虎",
+								"link": "https://v.qq.com/x/cover/9mpm7lotvyeyzk4.html",
+								"watchtimes": "￥1540万"
+							},
+							{
+								"title": "熊出没奇幻空间",
+								"link": "https://v.qq.com/x/cover/zm91ry6rctntum8.html",
+								"watchtimes": "￥1207万"
+							},
+							{
+								"title": "长城",
+								"link": "http://v.qq.com/cover/6/6n89qmcgox3zflm.html",
+								"watchtimes": "￥964万"
+							},
+							{
+								"title": "天空之眼",
+								"link": "https://v.qq.com/x/cover/thzd7zywzzdjsio.html",
+								"watchtimes": "￥834万"
+							},
+							{
+								"title": "血战钢锯岭",
+								"link": "http://v.qq.com/cover/j/jm7ingmp113qaqu.html",
+								"watchtimes": "￥533万"
+							}
+						]
+					}
+				]
+			},
+          "movieHotSearchBoard":{
+            "title":"电影热搜榜",
+            "content":[
+              {
+                "title":"侠探杰克：永不回头",
+                "image":"http://puui.qpic.cn/tv/0/6948684_265130/0",
+                "link":"https://v.qq.com/x/cover/n3n4sv44tavrxz4.html"
+              },
+              {
+                "title":"七月与安生",
+                "link":"http://v.qq.com/x/cover/q8742fxhp6pj7zv.html"
+              },
+              {
+                "title":"飞鸿笑传",
+                "link":"http://v.qq.com/x/cover/7ahtjlgnr7vtk1w.html"
+              },
+              {
+                "title":"逗鸟外传：萌宝满天飞",
+                "link":"http://v.qq.com/x/cover/ordx2gh5t7x0o04.html"
+              },
+              {
+                "title":"致命电话",
+                "link":"http://v.qq.com/x/cover/ohew3xhdhhn23t6.html"
+              },
+              {
+                "title":"名侦探柯南：纯黑的噩梦",
+                "link":"http://v.qq.com/x/cover/gpcfwzyrfzyalj7.html"
+              },
+              {
+                "title":"湄公河行动",
+                "link":"http://v.qq.com/x/cover/h188mdjtrh3up22.html"
+              },
+              {
+                "title":"勇士之门",
+                "link":"http://v.qq.com/x/cover/hpb2vj6f3fzvqxd.html"
+              },
+              {
+                "title":"诡新娘",
+                "link":"http://v.qq.com/x/cover/y30wuana7g93hlc.html"
+              }
+            ]
+          },
+          "movieHourMan":{
+            "title":"电影风云人物",
+            "content":[
+              {
+                "name":"王宝强",
+                "movie":"人在囧途",
+                "star_link":"http://v.qq.com/x/star/76732",
+                "movie_link":"http://v.qq.com/cover/w/wlb7ba6jg8x1rjm.html"
+              },
+              {
+                "name":"陈思成",
+                "movie":"北京爱情故事",
+                "star_link":"http://v.qq.com/x/star/141933",
+                "movie_link":"http://v.qq.com/cover/s/svetu681um6g6af.html"
+              },
+              {
+                "name":"周星驰",
+                "movie":"美人鱼",
+                "star_link":"http://v.qq.com/x/star/72862",
+                "movie_link":"http://v.qq.com/cover/x/xg95sxi4q7zc4uo.html"
+              },
+              {
+                "name":"邓超",
+                "movie":"恶棍天使",
+                "star_link":"http://v.qq.com/search.html?pagetype=3&ms_key=%E9%82%93%E8%B6%85&stj2=search.search&stag=txt.result",
+                "movie_link":"http://v.qq.com/cover/u/uxcy3k044fczp2j.html"
+              },
+              {
+                "name":"陈坤",
+                "movie":"鬼吹灯之寻龙诀",
+                "star_link":"http://v.qq.com/search.html?pagetype=3&ms_key=%E9%99%88%E5%9D%A4&stj2=search.search&stag=txt.result",
+                "movie_link":"http://v.qq.com/cover/3/3xk72twalaqaku0.html"
+              },
+              {
+                "name":"李易峰",
+                "movie":"老炮儿",
+                "star_link":"http://v.qq.com/x/star/93893",
+                "movie_link":"http://v.qq.com/cover/p/plljbb91krwpc5e.html"
+              },
+              {
+                "name":"莱昂纳多·迪卡普里奥",
+                "movie":"荒野猎人",
+                "star_link":"http://v.qq.com/x/star/78268",
+                "movie_link":"http://v.qq.com/cover/b/b7gf4r21y642xhh.html"
+              },
+              {
+                "name":"冯绍峰",
+                "movie":"孙悟空三打白骨精",
+                "link":"http://v.qq.com/search.html?pagetype=3&stj2=search.search&stag=txt.index&ms_key=%E5%86%AF%E7%BB%8D%E5%B3%B0",
+                "movie_link":"http://v.qq.com/cover/w/wmey1i8mowpiiqu.html"
+              }
+            ]
+          },
+          "memberHotSearchBoard":{
+            "title":"会员热播榜",
+            "content":[
+              {
+                "title":"三少爷的剑",
+                "image":"http://puui.qpic.cn/tv/0/6699934_265130/0",
+                "link":"https://v.qq.com/x/cover/wpl6khm6pzauf8i.html"
+              },
+              {
+                "title":"谍影重重5",
+                "link":"http://v.qq.com/x/cover/lvxqk7s7yynbdba.html"
+              },
+              {
+                "title":"王牌逗王牌",
+                "link":"http://v.qq.com/x/cover/1bav7atk48laen2.html"
+              },
+              {
+                "title":"超级小郎中之鲛人泣珠",
+                "link":"http://v.qq.com/x/cover/jmz0ucbv2ojbdaa.html"
+              },
+              {
+                "title":"赛末点",
+                "link":"http://v.qq.com/x/cover/fa4ks9e0lfzgi9k.html"
+              },
+              {
+                "title":"爱宠大机密",
+                "link":"http://v.qq.com/x/cover/gd4ls0ntz1hgf0d.html"
+              },
+              {
+                "title":"微微一笑很倾城",
+                "link":"http://v.qq.com/x/cover/691om0rwg270ihu.html"
+              },
+              {
+                "title":"潘银莲监控事件",
+                "link":"http://v.qq.com/x/cover/dt0p5v8d4c2l13d.html"
+              },
+              {
+                "title":"从你的全世界路过",
+                "link":"http://v.qq.com/x/cover/hrr3qneqbo22q06.html"
+              }
+            ]
+          },
+          "movieComeSoon":{
+            "title":"即将上映",
+            "content":[
+              {
+                "maintitle":"缺失的爱",
+                "subtitle":"主演：龚蓓苾,冯文娟,郭艳,何强",
+                "image":"http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/y/ydxmsfpfrkypj4t.jpg",
+                "link":"http://v.qq.com/prev/y/ydxmsfpfrkypj4t.html"
+              },
+              {
+                "maintitle":"东北往事之破马张飞",
+                "subtitle":"主演：贾乃亮,马丽,王迅,梁超",
+                "image":"http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/i/iic3fh7rqhgc0x7.jpg",
+                "link":"http://v.qq.com/prev/i/iic3fh7rqhgc0x7.html"
+              },
+              {
+                "maintitle":"冰雪大作战",
+                "subtitle":"主演：Angela Galuppo,Mariloup Wolfe",
+                "image":"http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/u/ui6bj84gxx1wyeh.jpg",
+                "link":"http://v.qq.com/prev/u/ui6bj84gxx1wyeh.html"
+              },
+              {
+                "maintitle":"萤火奇兵",
+                "subtitle":"主演：山新,姚雷,郭盛,李姗姗",
+                "image":"http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/1/1j3urwn0vgleggx.jpg",
+                "link":"http://v.qq.com/prev/1/1j3urwn0vgleggx.html"
+              },
+              {
+                "maintitle":"决战食神",
+                "subtitle":"主演：葛优,谢霆锋,唐嫣,郑容和",
+                "image":"http://i.gtimg.cn/qqlive/img/jpgcache/files/qqvideo/hori/n/nvylq1a8r50kksa.jpg",
+                "link":"http://v.qq.com/prev/n/nvylq1a8r50kksa.html"
+              }
+            ]
+          }
+		}
+	}
+}

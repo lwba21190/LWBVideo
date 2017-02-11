@@ -1,0 +1,17 @@
+
+
+.search_div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    height: 80px;
+    color: #00B7FF;
+    border-radius: 10px;
+}
+
+.search_btn_text {
+  color: red;
+}
+
+
