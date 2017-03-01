@@ -5,11 +5,11 @@ import Nav from '../components/Nav'
 import SportContent from './SportContent'
 import sportHeaderInfo from '../../data/sportHeaderInfo.json';
 
-class Series extends Component{
+class Sport extends Component{
 
     render(){
         return (
-            <div style={{width:1280,display:'flex',flexDirection:'column',alignItems:'center'}}>
+            <div>
                 <Search  info={sportHeaderInfo.data["search_content"]}/>
                 <Nav info={sportHeaderInfo.data["nav"]}/>
                 <div style={{width:1280,display:'flex',justifyContent:'center',position:'absolute',top:120}}>
@@ -20,4 +20,4 @@ class Series extends Component{
     }
 }
 
-export default Series;
+export default Sport;
