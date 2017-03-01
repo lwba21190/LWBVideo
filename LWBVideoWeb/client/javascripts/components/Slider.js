@@ -22,7 +22,7 @@ class Slider extends Component{
 
     render(){
         return (
-            <div style={{display:'flex',width:'100%',justifyContent:'center',position:'absolute'}}>
+            <div style={{display:'flex',width:1280,justifyContent:'center',position:'absolute'}}>
                 {this.renderView()}
                 <div style={{position:'absolute',top:130,right:0}}>
                     {this.renderTitle()}
