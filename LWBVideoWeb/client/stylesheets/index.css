@@ -34,16 +34,11 @@ li{
 .container{
     margin: 0 auto;
     width:1280px;
-    position:relative;
-    display:flex;
-    flex:1;
-    justify-content:center;
 }
 
-#home{
-    display: flex;
-    flex:1;
-    justify-content: center;
+#home,#movie,#series,#sport,#variety{
+    margin:0 auto;
+    width:1280px;
 }
 
 ::-webkit-scrollbar {
