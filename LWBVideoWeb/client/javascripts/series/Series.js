@@ -12,7 +12,7 @@ class Series extends Component{
 
     render(){
         return (
-            <div style={{width:1280,display:'flex',flexDirection:'column',alignItems:'center'}}>
+            <div>
                 <Slider info={seriesHeaderInfo.data["background_slider"]} />
                 <Search  info={seriesHeaderInfo.data["search_content"]}/>
                 <Nav info={seriesHeaderInfo.data["nav"]}/>
