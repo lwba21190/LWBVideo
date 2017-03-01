@@ -3,7 +3,6 @@ import Slider from '../components/Slider'
 import Search from '../components/Search'
 import Nav from '../components/Nav'
 import HomeContent from './HomeContent'
-import styles from '../../stylesheets/home.css';
 import homeHeaderInfo from '../../data/homeHeaderInfo.json';
 
 class Home extends Component{
@@ -13,7 +12,7 @@ class Home extends Component{
 
     render(){
         return (
-            <div style={{width:1280,display:'flex',flexDirection:'column',alignItems:'center'}}>
+            <div>
                 <Slider info={homeHeaderInfo.data["background_slider"]} />
                 <Search info={homeHeaderInfo.data["search_content"]}/>
                 <Nav info={homeHeaderInfo.data["nav"]}/>
