@@ -12,7 +12,7 @@ class Search extends Component{
 
     render(){
         return (
-            <div style={{position: 'fixed',top: 10,width:'100%',display:'flex',justifyContent:'center'}}>
+            <div style={{position: 'fixed',top: 10,width:1280,display:'flex',justifyContent:'center'}}>
                 <div style={{width:'50%',height:40,borderRadius:25,borderWidth:6,backgroundColor:'rgba(204, 204, 204, 0.5)'}}>
                     <form action="#" method="get" style={{display: 'flex',alignItems:'center'}}>
                         <div style={{width:40,height:40,display:'flex',justifyContent:'center',alignItems:'center'}} >
