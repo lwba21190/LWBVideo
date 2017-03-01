@@ -11,7 +11,7 @@ class Nav extends Component{
 
     render(){
         return (
-            <div style={{display:'flex',alignItems:'center',position:'absolute',width:'100%',height:30,top:65,borderRadius:25,borderWidth:6,backgroundColor:'rgba(204,204,204,0.5)'}}>
+            <div style={{display:'flex',alignItems:'center',position:'absolute',width:1280,height:30,top:65,borderRadius:25,borderWidth:6,backgroundColor:'rgba(204,204,204,0.5)'}}>
                 {this.renderNavItem(this.props.info)}
             </div>
         );
