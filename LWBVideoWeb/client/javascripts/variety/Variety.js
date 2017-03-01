@@ -12,7 +12,7 @@ class Variety extends Component{
 
     render(){
         return (
-            <div style={{width:1280,display:'flex',flexDirection:'column',alignItems:'center'}}>
+            <div>
                 <Slider info={varietyHeaderInfo.data["background_slider"]} />
                 <Search  info={varietyHeaderInfo.data["search_content"]}/>
                 <Nav info={varietyHeaderInfo.data["nav"]}/>
