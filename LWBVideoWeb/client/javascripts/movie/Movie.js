@@ -12,7 +12,7 @@ class Movie extends Component{
 
     render(){
         return (
-            <div style={{width:1280,display:'flex',flexDirection:'column',alignItems:'center'}}>
+            <div>
                 <Slider info={movieHeaderInfo.data["background_slider"]} />
                 <Search  info={movieHeaderInfo.data["search_content"]}/>
                 <Nav info={movieHeaderInfo.data["nav"]}/>
