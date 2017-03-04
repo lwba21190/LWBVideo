@@ -7,7 +7,8 @@ module.exports = {
         "series":__dirname+"/javascripts/series/index.js",
         "variety":__dirname+"/javascripts/variety/index.js",
         "movie":__dirname+"/javascripts/movie/index.js",
-        "sport":__dirname+"/javascripts/sport/index.js"
+        "sport":__dirname+"/javascripts/sport/index.js",
+        "react":['react']
     },
     output: {
         path: __dirname+"/output/js",
@@ -37,5 +38,28 @@ module.exports = {
                 loader: 'json'
             }
         ]
-    }
+    },
+    plugins: [
+        //压缩打包的文件
+        new webpack.optimize.UglifyJsPlugin({
+            output: {
+                comments: false,  // remove all comments
+            },
+            compress: {
+                //supresses warnings, usually from module minification
+                warnings: false
+            }
+        }),
+
+        new webpack.optimize.CommonsChunkPlugin({
+            name:['react'],
+            minChunks: Infinity
+        }),
+
+        new webpack.DefinePlugin({
+            'process.env': {
+                NODE_ENV: JSON.stringify(process.env.NODE_ENV),
+            },
+        })
+    ]
 };
