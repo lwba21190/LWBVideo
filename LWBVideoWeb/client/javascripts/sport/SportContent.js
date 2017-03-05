@@ -1,7 +1,7 @@
 import React,{Component} from 'react';
 import LWBVideoFooter from '../components/LWBVideoFooter';
 import SportContentTop from './SportContentTop';
-import sportContentInfo from '../../data/sportContent.json';
+import config from '../../data/config.json';
 import SportScheduleLiveTable from './SportScheduleLiveTable';
 import ContentType1 from '../components/ContentType1';
 import SportMatchVideo from './SportMatchVideo';
@@ -9,7 +9,30 @@ import SportContentItem from './SportContentItem';
 import SportWonderfulMedia from './SportWonderfulMedia';
 
 class SportContent extends Component{
+    constructor(props){
+        super(props);
+        this.state = {
+            sportContentInfo: null
+        }
+    }
+
+    componentDidMount(){
+        var self = this;
+        fetch(config.host+"/data/sportContent.json")
+            .then((res)=>res.json())
+            .then((resJson)=>{
+                self.setState({
+                    sportContentInfo: resJson
+                });
+            })
+            .catch((err)=>{
+                console.log(err);
+            });
+    }
+
     render(){
+        var sportContentInfo = this.state.sportContentInfo;
+        if(!sportContentInfo) return(<div></div>);
         return (
             <div style={{display:'flex',width:1280,flexDirection:'column'}}>
                 <SportContentTop info={sportContentInfo.data.contentTop}/>
@@ -52,6 +75,10 @@ class SportContent extends Component{
                 <LWBVideoFooter />
             </div>
         );
+    }
+
+    shouldComponentUpdate(nextProps, nextState){
+        return this.state.sportContentInfo !== nextState.sportContentInfo;
     }
 }
 
