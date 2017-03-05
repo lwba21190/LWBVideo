@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import seriesContentInfo from '../../data/seriesContent.json'
+import config from '../../data/config.json'
 import ContentType0 from '../components/ContentType0';
 import ContentType1 from '../components/ContentType1';
 import ContentType2 from '../components/ContentType2';
@@ -7,16 +7,38 @@ import ContentType3 from '../components/ContentType3';
 import LWBVideoFooter from '../components/LWBVideoFooter';
 
 class HomeContent extends Component{
+    constructor(props){
+        super(props);
+        this.state = {
+            seriesContentInfo: null
+        }
+    }
+
+    componentDidMount(){
+        var self = this;
+        fetch(config.host+"/data/seriesContent.json")
+            .then((res)=>res.json())
+            .then((resJson)=>{
+                self.setState({
+                    seriesContentInfo: resJson
+                });
+            })
+            .catch((err)=>{
+                console.log(err);
+            });
+    }
+
     render(){
+        var seriesContentInfo = this.state.seriesContentInfo;
         return (
             <div style={{display:'flex',width:1240,flexDirection:'column',justifyContent:'center',alignItems:'center'}}>
-                {this.renderContent()}
+                {seriesContentInfo && this.renderContent(seriesContentInfo)}
                 <LWBVideoFooter />
             </div>
         );
     }
 
-    renderContent(){
+    renderContent(seriesContentInfo){
         var view = [];
         var data = seriesContentInfo.data;
         for(var i = 0; i < data.length; i++) {
@@ -44,6 +66,10 @@ class HomeContent extends Component{
             }
         }
         return view;
+    }
+
+    shouldComponentUpdate(nextProps, nextState){
+        return this.state.seriesContentInfo !== nextState.seriesContentInfo;
     }
 }
 
