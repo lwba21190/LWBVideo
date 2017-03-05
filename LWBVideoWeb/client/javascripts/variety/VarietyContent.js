@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import varietyContentInfo from '../../data/varietyContent.json'
+import config from '../../data/config.json'
 import ContentType0 from '../components/ContentType0';
 import ContentType1 from '../components/ContentType1';
 import ContentType2 from '../components/ContentType2';
@@ -12,7 +12,30 @@ import RightContentItem from './RightContentItem';
 import LeftBottomContentItem from './LeftBottomContentItem';
 
 class VarietyContent extends Component{
+    constructor(props){
+        super(props);
+        this.state = {
+            varietyContentInfo: null
+        }
+    }
+
+    componentDidMount(){
+        var self = this;
+        fetch(config.host+"/data/varietyContent.json")
+            .then((res)=>res.json())
+            .then((resJson)=>{
+                self.setState({
+                    varietyContentInfo: resJson
+                });
+            })
+            .catch((err)=>{
+                console.log(err);
+            });
+    }
+
     render(){
+        var varietyContentInfo = this.state.varietyContentInfo;
+        if(!varietyContentInfo) return(<div></div>);
         return (
             <div style={{display:'flex',width:1240,flexDirection:'column',justifyContent:'center',alignItems:'center'}}>
                 <div style={{marginBottom:20}}>
@@ -20,17 +43,17 @@ class VarietyContent extends Component{
                 </div>
                 <div style={{width:1240,display:'flex',justifyContent:'space-between'}}>
                     <div style={{display:'flex',flexDirection:'column'}}>
-                        {this.renderLeftTopContent()}
-                        {this.renderLeftBottomContent()}
+                        {this.renderLeftTopContent(varietyContentInfo)}
+                        {this.renderLeftBottomContent(varietyContentInfo)}
                     </div>
-                    {this.renderRightContent()}
+                    {this.renderRightContent(varietyContentInfo)}
                 </div>
                 <LWBVideoFooter />
             </div>
         );
     }
 
-    renderLeftTopContent(){
+    renderLeftTopContent(varietyContentInfo){
         var view = [];
         var data = varietyContentInfo.data.leftTop;
         for(var i = 0; i < data.length; i++) {
@@ -56,7 +79,7 @@ class VarietyContent extends Component{
         return (<div>{view}</div>);
     }
 
-    renderRightContent(){
+    renderRightContent(varietyContentInfo){
         return (
             <div style={{marginTop:20}}>
                 <ProgramList info={varietyContentInfo.data.rightContent.programList} width={248} height={540} />
@@ -79,7 +102,7 @@ class VarietyContent extends Component{
         );
     }
 
-    renderLeftBottomContent(){
+    renderLeftBottomContent(varietyContentInfo){
         var data = varietyContentInfo.data.leftBottom;
         var content = data.content;
         return (
@@ -107,6 +130,10 @@ class VarietyContent extends Component{
                 </ul>
             </div>
         );
+    }
+
+    shouldComponentUpdate(nextProps, nextState){
+        return this.state.varietyContentInfo !== nextState.varietyContentInfo;
     }
 }
 
