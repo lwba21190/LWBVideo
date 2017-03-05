@@ -1,5 +1,5 @@
 import React,{Component} from 'react';
-import movieContentInfo from '../../data/movieContent.json'
+import config from '../../data/config.json';
 import ContentType2 from '../components/ContentType2';
 import LWBVideoFooter from '../components/LWBVideoFooter';
 import ContentSort from '../components/ContentSort';
@@ -13,7 +13,30 @@ import MovieComeSoon from './MovieComeSoon';
 
 class MovieContent extends Component{
 
+    constructor(props){
+        super(props);
+        this.state = {
+            movieContentInfo: null
+        }
+    }
+
+    componentDidMount(){
+        var self = this;
+        fetch(config.host+"/data/movieContent.json")
+            .then((res)=>res.json())
+            .then((resJson)=>{
+                self.setState({
+                    movieContentInfo: resJson
+                });
+            })
+            .catch((err)=>{
+                console.log(err);
+            });
+    }
+
     render(){
+        var movieContentInfo = this.state.movieContentInfo;
+        if(!movieContentInfo) return(<div></div>);
         return (
             <div style={{display:'flex',width:1240,flexDirection:'column'}}>
                 <div style={{marginBottom:20}}>
@@ -71,9 +94,8 @@ class MovieContent extends Component{
             </div>
         );
     }
-
-    renderLeftBottomItems(items){
-
+    shouldComponentUpdate(nextProps, nextState){
+        return this.state.movieContentInfo !== nextState.movieContentInfo;
     }
 }
 
